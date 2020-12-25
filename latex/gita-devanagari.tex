@@ -1,0 +1,49 @@
+%!TEX program = xelatex
+\documentclass{scrbook}
+\KOMAoptions{paper=letter}
+\KOMAoptions{fontsize=13pt}
+\KOMAoptions{toc=chapterentrydotfill}
+
+\addtokomafont{disposition}{\rmfamily}
+
+% Formatting
+\usepackage{multicol}
+\usepackage{float}
+
+% Fonts
+\usepackage{fontspec}
+\setmainfont{Junicode}
+\newfontfamily{\devfont}[Scale=MatchUppercase, Script=Devanagari]{Martel}
+
+
+% Commands
+\newcommand{\dev}[1]{\begin{devfont}{#1}\end{devfont}}
+
+\newcommand{\romline}[1]{{#1}}
+\newcommand{\natline}[1]{\dev{#1}}
+
+% Variables
+
+\title{Bhagavad Gita}
+\date{}
+
+\begin{document}
+\maketitle
+\frontmatter
+
+\tableofcontents
+\newpage
+
+\chapter{Dhyāna Ślokas}
+\input{sections/devanagari/opening-slokas.tex}
+
+\mainmatter
+
+\chapter{Sāṅkhya Yoga}
+\input{sections/devanagari/chapter-2.tex}
+
+\backmatter
+\chapter{Closing Ślokas}
+\input{sections/devanagari/closing-slokas.tex}
+
+\end{document}

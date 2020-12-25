@@ -1,0 +1,52 @@
+%!TEX program = xelatex
+\documentclass{scrbook}
+\KOMAoptions{paper=letter}
+\KOMAoptions{fontsize=13pt}
+\KOMAoptions{toc=chapterentrydotfill}
+
+\addtokomafont{disposition}{\rmfamily}
+% \usepackage[left=0.75in,right=0.75in,top=1in,bottom=1in,]{geometry}
+
+% Formatting
+\usepackage{multicol}
+\usepackage{float}
+
+% Fonts
+\usepackage{fontspec}
+\setmainfont{Junicode}
+\newfontfamily{\telfont}[Scale=MatchUppercase, Script=Telugu]{Adobe Telugu}
+
+
+% Commands
+\newcommand{\dev}[1]{\begin{devfont}{#1}\end{devfont}}
+\newcommand{\tel}[1]{\begin{telfont}{#1}\end{telfont}}
+
+\newcommand{\romline}[1]{{#1}}
+\newcommand{\natline}[1]{\tel{#1}}
+
+% Variables
+
+\title{Telugu Typesetting for \\ the Bhagavad Gita}
+\author{}
+% \date{}
+
+\begin{document}
+\maketitle
+\frontmatter
+
+\tableofcontents
+\newpage
+
+\chapter{Dhyāna Ślokas}
+\input{sections/telugu/opening-slokas.tex}
+
+\mainmatter
+
+\chapter{Sāṅkhya Yoga}
+\input{sections/telugu/chapter-2.tex}
+
+\backmatter
+\chapter{Closing Ślokas}
+\input{sections/telugu/closing-slokas.tex}
+
+\end{document}
