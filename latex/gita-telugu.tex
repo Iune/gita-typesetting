@@ -14,8 +14,15 @@
 
 % Fonts
 \usepackage{fontspec}
-\setmainfont{Junicode}
-\newfontfamily{\telfont}[Scale=MatchUppercase, Script=Telugu]{Adobe Telugu}
+\setmainfont[
+    Path = assets/,
+    UprightFont = Junicode.ttf,
+    BoldFont = Junicode-Bold.ttf]{Junicode}
+\newfontfamily{\telfont}[
+    Path = assets/, 
+    UprightFont = Adobe_Telugu.otf,
+    BoldFont = Adobe_Telugu_Bold.otf,
+    Scale=MatchUppercase, Script=Telugu]{Adobe Telugu}
 
 
 % Commands
