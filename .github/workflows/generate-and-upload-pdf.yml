@@ -18,19 +18,15 @@ jobs:
           working_directory: latex
           args: -xelatex -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
           
+      - name: Copy Built PDF to public/
+        run: cp latex/gita-telugu.pdf public/gita.pdf
+
       - name: GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.2.0
         with:
           target_branch: gh-pages
           keep_history: false
           build_dir: public
-          # The committer name and email address
-#           committer: # optional
-          # The author name and email address
-#           author: # optional
-          # Commit message
-#           commit_message: # optional
-          # Write the given domain name to the CNAME file
           fqdn: gita.aduri.net
           jekyll: false
         env:
