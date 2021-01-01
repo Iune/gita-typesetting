@@ -40,7 +40,7 @@ pRRichChAmi tvAM dharma-sammUDha-chetAH
 yachChreyaH syAnnishchitaM brUhi tanme
 shiShyaste.ahaM shAdhi mAM tvAM prapannam
 
-na hi~prapashyAmi mamApanudyAd
+na hi·prapashyAmi mamApanudyAd
 yachChokam-uchChoShaNam-indriyANAm
 avApya bhUmAv-asapatnamRRiddhaM
 rAjyaM surANAmapi chAdhipatyam
@@ -137,7 +137,7 @@ nityaM vA manyase mRRitam
 tathA.api tvaM mahAbAho
 naivaM shochitumarhasi
 
-jAtasya hi~dhruvo mRRityuH
+jAtasya hi·dhruvo mRRityuH
 dhruvaM janma mRRitasya cha
 tasmAdaparihArye.arthe
 na tvaM shochitumarhasi
