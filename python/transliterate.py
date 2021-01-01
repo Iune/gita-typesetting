@@ -25,7 +25,7 @@ def load_slokas(file_path: str) -> List[Sloka]:
 
 def convert_slokas(slokas: List[Sloka], scheme_map=sanscript.SchemeMap, remove_dashes: bool = True) -> List[Sloka]:
     if remove_dashes:
-        return [Sloka(lines=[sanscript.transliterate(line.replace('-', '').replace('·', ''), scheme_map=scheme_map)
+        return [Sloka(lines=[sanscript.transliterate(line.replace('-', '').replace('·', ' '), scheme_map=scheme_map)
                              for line in sloka.lines]) for sloka in slokas]
     else:
         return [Sloka(lines=[sanscript.transliterate(line, scheme_map=scheme_map)
