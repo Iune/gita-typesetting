@@ -3,6 +3,7 @@
 \KOMAoptions{paper=letter}
 \KOMAoptions{fontsize=13pt}
 \KOMAoptions{toc=chapterentrydotfill}
+\KOMAoptions{twoside=false}
 
 \addtokomafont{disposition}{\rmfamily}
 % \usepackage[left=0.75in,right=0.75in,top=1in,bottom=1in,]{geometry}
@@ -18,25 +19,14 @@
     Path = assets/,
     UprightFont = Junicode.ttf,
     BoldFont = Junicode-Bold.ttf]{Junicode}
-\newfontfamily{\telfont}[
-    Path = assets/, 
-    UprightFont = Adobe_Telugu.otf,
-    BoldFont = Adobe_Telugu_Bold.otf,
-    Scale=MatchUppercase, Script=Telugu]{Adobe Telugu}
-
 
 % Commands
-\newcommand{\dev}[1]{\begin{devfont}{#1}\end{devfont}}
-\newcommand{\tel}[1]{\begin{telfont}{#1}\end{telfont}}
-
 \newcommand{\romline}[1]{{#1}}
-\newcommand{\natline}[1]{\tel{#1}}
 
 % Variables
 
-\title{Telugu Typesetting for \\ the Bhagavad Gita}
+\title{IAST Typesetting for \\ the Bhagavad Gita}
 \author{}
-% \date{}
 
 \begin{document}
 \maketitle
@@ -46,17 +36,19 @@
 \newpage
 
 \chapter{Dhyāna Ślokas}
-\input{sections/telugu/opening-slokas.tex}
+\input{sections/iast/opening-slokas.tex}
 
 \mainmatter
 % Start at Chapter 2
 \setcounter{chapter}{1}
 
 \chapter{Sāṅkhya Yoga}
-\input{sections/telugu/chapter-2.tex}
+\begin{multicols}{2} 
+    \input{sections/iast/chapter-2.tex}
+\end{multicols}
 
 \backmatter
 \chapter{Closing Ślokas}
-\input{sections/telugu/closing-slokas.tex}
+\input{sections/iast/closing-slokas.tex}
 
 \end{document}

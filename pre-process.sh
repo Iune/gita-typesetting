@@ -50,4 +50,4 @@ generate_chapters() {
 }
 
 generate_chapters "telugu"
-# generate_chapters "devanagari"
+generate_chapters "iast"

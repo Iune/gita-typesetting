@@ -44,6 +44,37 @@ def write_to_txt(path: str, iast_slokas: List[Sloka], output_slokas: List[Sloka]
             f.write(f"{lines_to_text(iast)}\n\n\n")
 
 
+def write_iast_to_tex(path: str, iast_slokas: List[Sloka], headers: bool = False, chapter: str = None, split_first_sloka: bool = False):
+    def lines_to_tex(iast: Sloka) -> str:
+        lines = []
+        for index, iast_line in enumerate(iast.lines):
+            # Normalize ~ to handle LaTeX issues
+            iast_line = iast_line.replace('~', "\\textasciitilde{}")
+
+            line_ending = " \\\\" if index != len(iast.lines) - 1 else ""
+            line = f"\\romline{{{iast_line}}}{line_ending}"
+            lines.append(line)
+        return '\n'.join(lines)
+
+    with open(path, 'w') as f:
+        for index, iast in enumerate(iast_slokas):
+            if headers and chapter:
+                f.write(f"\\subsection*{{{chapter}.{index}}}\n")
+
+            # Table header
+            f.write("\\begin{table}[H]\n")
+            # f.write("\\centering\n")
+            f.write("\\begin{tabular}{l}\n")
+            # Table rows
+            f.write(f"{lines_to_tex(iast)}\n")
+            # Table footer
+            f.write("\end{tabular}\n")
+            f.write("\end{table}\n\n")
+
+            if split_first_sloka and index == 0:
+                f.write("\\newpage\n")
+
+
 def write_to_tex(path: str, iast_slokas: List[Sloka], output_slokas: List[Sloka], headers: bool = False, chapter: str = None, split_first_sloka: bool = False):
     def lines_to_tex(iast: Sloka, output: Sloka) -> str:
         lines = []
@@ -107,14 +138,19 @@ def main():
         scheme_map=sanscript.SchemeMap(input_scheme, iast_scheme),
         remove_dashes=False
     )
-    output_slokas = convert_slokas(
-        input_slokas,
-        scheme_map=sanscript.SchemeMap(input_scheme, output_scheme),
-        remove_dashes=True
-    )
 
-    write_to_tex(args.file, iast_slokas, output_slokas,
-                 chapter=args.chapter, headers=args.no_headers, split_first_sloka=args.split_first_sloka)
+    if args.output_scheme.lower() == "iast":
+        write_iast_to_tex(args.file, iast_slokas, chapter=args.chapter,
+                          headers=args.no_headers, split_first_sloka=args.split_first_sloka)
+    else:
+        output_slokas = convert_slokas(
+            input_slokas,
+            scheme_map=sanscript.SchemeMap(input_scheme, output_scheme),
+            remove_dashes=True
+        )
+
+        write_to_tex(args.file, iast_slokas, output_slokas,
+                     chapter=args.chapter, headers=args.no_headers, split_first_sloka=args.split_first_sloka)
 
 
 if __name__ == "__main__":
