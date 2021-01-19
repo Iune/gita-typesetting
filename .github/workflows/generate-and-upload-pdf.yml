@@ -28,9 +28,8 @@ jobs:
           args: -xelatex -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
 
       - name: Copy Built PDF to public/
-        run: 
-          - cp latex/gita-telugu.pdf public/gita-telugu.pdf
-          - cp latex/gita-iast.pdf public/gita-iast.pdf
+        run: cp latex/gita-*.pdf public/
+        
 
       - name: GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.2.0
