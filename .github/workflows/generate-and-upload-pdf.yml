@@ -29,7 +29,6 @@ jobs:
 
       - name: Copy Built PDF to public/
         run: cp latex/gita-*.pdf public/
-        
 
       - name: GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.2.0
