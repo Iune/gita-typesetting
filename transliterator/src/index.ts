@@ -174,7 +174,6 @@ function parseArgs() {
 
 function main() {
     const args = parseArgs();
-    console.log(args.headers)
     const slokas = loadSlokas(args.slokas);
     const iastSlokas = convertSlokas(slokas, new ScriptMap({ fromScript: Itrans, toScript: Iast }), false);
     const teluguSlokas = convertSlokas(slokas, new ScriptMap({ fromScript: Itrans, toScript: Telugu }), true);
