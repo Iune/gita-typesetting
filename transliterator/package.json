@@ -1,8 +1,8 @@
 {
-  "name": "src",
+  "name": "transliterator",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Transliterate Sanskrit Gita slokas from ITRANS scheme to IAST and Telugu",
+  "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/command-line-args": "^5.0.0",
     "@types/node": "^14.14.22",
     "@types/yargs": "^15.0.12",
     "ts-node": "^9.1.1",
