@@ -48,67 +48,25 @@ function convertSlokas(slokas: Sloka[], scriptMap: ScriptMap, sanitize: boolean 
     })
 }
 
-function writeTeluguTex(outputFilePath: string, iastSlokas: Sloka[], teluguSlokas: Sloka[],
-    chapter: string = '', displayHeaders: boolean = false, splitFirstSloka: boolean = false) {
-    function lineToTex(iast: Sloka, telugu: Sloka): string {
-        let lines: string[] = [];
-        for (let idx = 0; idx < iast.lines.length; idx++) {
-            const iastLine = iast.lines[idx].replace('~', '\\textasciitilde{}');
-            const teluguLine = telugu.lines[idx].replace('~', '\\textasciitilde{}');
-
-            let lineEnding: string;
-            if (idx != iast.lines.length - 1) { lineEnding = ' \\\\'; }
-            else { lineEnding = ''; }
-
-            lines.push(`\\natline{${teluguLine}} & \\romline{${iastLine}}${lineEnding}`);
-        }
-
-        return lines.join('\n');
-    }
-
-    const file = createWriteStream(outputFilePath, { flags: 'w' });
-    for (let idx = 0; idx < iastSlokas.length; idx++) {
-        if (displayHeaders && chapter.length > 0) {
-            file.write(`\\subsection*{${chapter}.${idx}}\n`);
-        }
-
-        // Table header
-        file.write(`\\begin{table}[H]\n`);
-        file.write(`\\centering\n`);
-        file.write(`\\begin{tabular}{ll}\n`)
-        // Table rows
-        file.write(`${lineToTex(iastSlokas[idx], teluguSlokas[idx])}\n`);
-        // Table footer
-        file.write(`\\end{tabular}\n`);
-        file.write(`\\end{table}\n\n`);
-
-        if (splitFirstSloka && idx == 0) {
-            file.write(`\\newpage\n\n`);
-        }
-    }
-
-    file.end();
-}
-
-function writeIastTex(outputFilePath: string, iastSlokas: Sloka[],
+function writeTex(outputFilePath: string, slokas: Sloka[], latexCommand: string,
     chapter: string = '', displayHeaders: boolean = false, splitFirstSloka: boolean = false) {
     function lineToTex(iast: Sloka): string {
         let lines: string[] = [];
         for (let idx = 0; idx < iast.lines.length; idx++) {
-            const iastLine = iast.lines[idx].replace('~', '\\textasciitilde{}');
+            const line = iast.lines[idx].replace('~', '\\textasciitilde{}');
 
             let lineEnding: string;
             if (idx != iast.lines.length - 1) { lineEnding = ' \\\\'; }
             else { lineEnding = ''; }
 
-            lines.push(`\\romline{${iastLine}}${lineEnding}`);
+            lines.push(`\\${latexCommand}{${line}}${lineEnding}`);
         }
 
         return lines.join('\n');
     }
 
     const file = createWriteStream(outputFilePath, { flags: 'w' });
-    for (let idx = 0; idx < iastSlokas.length; idx++) {
+    for (let idx = 0; idx < slokas.length; idx++) {
         if (displayHeaders && chapter.length > 0) {
             file.write(`\\subsection*{${chapter}.${idx}}\n`);
         }
@@ -117,7 +75,7 @@ function writeIastTex(outputFilePath: string, iastSlokas: Sloka[],
         file.write(`\\begin{table}[H]\n`);
         file.write(`\\begin{tabular}{l}\n`)
         // Table rows
-        file.write(`${lineToTex(iastSlokas[idx])}\n`);
+        file.write(`${lineToTex(slokas[idx])}\n`);
         // Table footer
         file.write(`\\end{tabular}\n`);
         file.write(`\\end{table}\n\n`);
@@ -177,8 +135,8 @@ function main() {
     const slokas = loadSlokas(args.slokas);
     const iastSlokas = convertSlokas(slokas, new ScriptMap({ fromScript: Itrans, toScript: Iast }), false);
     const teluguSlokas = convertSlokas(slokas, new ScriptMap({ fromScript: Itrans, toScript: Telugu }), true);
-    writeTeluguTex(args.telugu, iastSlokas, teluguSlokas, args.chapter, args['headers'], args['split-first-sloka']);
-    writeIastTex(args.iast, iastSlokas, args.chapter, args['headers'], args['split-first-sloka']);
+    writeTex(args.telugu, teluguSlokas, 'natline', args.chapter, args['headers'], args['split-first-sloka']);
+    writeTex(args.iast, iastSlokas, 'romline', args.chapter, args['headers'], args['split-first-sloka']);
 }
 
 main()
