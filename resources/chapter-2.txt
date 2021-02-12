@@ -210,7 +210,7 @@ trAyate mahato bhayAt
 vyavasAyAtmikA buddhiH
 ekeha kurunandana
 bahushAkhA hyanantAshcha
-buddhayo.avyasAyinAm
+buddhayo.avyavasAyinAm
 
 yAmimAM puShpitAM vAcaM
 pravadantyavipashchitaH
@@ -312,12 +312,12 @@ haranti·prasabhaM manaH
 tAni sarvANi sanyamya
 yukta AsIta matparaH
 vashe hi yasyendriyANi
-tasya praj~nA pratiShThitA
+tasya·praj~nA·pratiShThitA
 
 dhyAyato viShayAnpuMsaH
 sa~NgasteShUpajAyate
 sa~NgAt-sa~njAyate kAmaH
-kAmAtkrodho.abhijAyate
+kAmAt-krodho.abhijAyate
 
 krodhAd bhavati sammohaH
 sammohAt smRRiti-vibhramaH
