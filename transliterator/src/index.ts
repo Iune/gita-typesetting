@@ -33,7 +33,6 @@ function loadSlokas(inputFilePath: string): Sloka[] {
 function convertSlokas(slokas: Sloka[], scriptMap: ScriptMap, sanitize: boolean = false) {
     function sanitizeLine(line: string): string {
         if (sanitize) {
-            console.log(line.replace(/-/g, '').replace(/·/g, ' '));
             return line.replace(/-/g, '').replace(/·/g, ' ');
         }
         else { return line; }
