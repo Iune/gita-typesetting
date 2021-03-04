@@ -43,6 +43,7 @@ generate_chapters() {
     generate_latex "opening-slokas" "0" false false
     generate_latex "closing-slokas" "0" false false
     generate_latex "chapter-2" "2" true false
+    generate_latex "chapter-12" "12" true false
 }
 
 generate_chapters
