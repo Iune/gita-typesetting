@@ -309,7 +309,7 @@ puruShasya vipashchitaH
 indriyANi·pramAthIni
 haranti·prasabhaM manaH
 
-tAni sarvANi sanyamya
+tAni sarvANi samyamya
 yukta AsIta matparaH
 vashe hi yasyendriyANi
 tasya·praj~nA·pratiShThitA
@@ -325,9 +325,9 @@ smRRiti-bhramshAt buddhi-nAshaH
 buddhi-nAshAt-praNashyati
 
 rAga-dveSha-viyuktaistu
-viShayAnindriyaishcharan
+viShayA-nindriyaishcharan
 Atma-vashyairvidheyAtmA
-prasAdam-adhigachChati
+prasAda-madhigachChati
 
 prasAde sarvaduHkhAnAM
 hAnirasyopajAyate
@@ -347,7 +347,7 @@ vAyurnAvamivAmbhasi
 tasmAd yasya mahAbAho
 nigRRihItAni sarvashaH
 indriyANIndriyArthebhyaH
-tasya praj~nA pratiShThitA
+tasya·praj~nA·pratiShThitA
 
 yA nishA sarvabhUtAnAM
 tasyAM jAgarti sanyamI
