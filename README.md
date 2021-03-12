@@ -5,13 +5,16 @@ This repository contains resources to produce a LaTeX-typeset PDF for the Bhagav
 ## Setup
 
 ```bash
-cd transliterator
-npm install
+cd python
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
 ```
 
 ## Generating LaTeX Files
 
 ```bash
-cd transliterator
-./pre-process.sh
+cd python
+source venv/bin/activate
+python main.py
 ```
