@@ -27,6 +27,7 @@ def main():
     write_latex("opening-slokas", "0", False)
     write_latex("chapter-2", "2", True)
     write_latex("chapter-12", "12", True)
+    write_latex("chapter-15", "15", True)
 
 
 if __name__ == "__main__":
