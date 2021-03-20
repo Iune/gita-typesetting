@@ -366,5 +366,5 @@ sa shAntim-adhigachChati
 
 eShA brAhmI sthitiH pArtha
 nainAM prApya vimuhyati
-sthitvAsyAm-antakAle.api
+sthitvAsyA-mantakAle.api
 brahmanirvANam-RRichChati
