@@ -24,7 +24,7 @@ def write_latex(section_name: str, chapter: str, display_headers: bool, split_fi
 
 def main():
     write_latex("opening-slokas", "0", False)
-    write_latex("opening-slokas", "0", False)
+    write_latex("closing-slokas", "0", False)
     write_latex("chapter-2", "2", True)
     write_latex("chapter-12", "12", True)
     write_latex("chapter-15", "15", True)
