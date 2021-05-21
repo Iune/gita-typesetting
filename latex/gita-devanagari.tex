@@ -3,29 +3,37 @@
 \KOMAoptions{paper=letter}
 \KOMAoptions{fontsize=13pt}
 \KOMAoptions{toc=chapterentrydotfill}
+\KOMAoptions{twoside=false}
 
 \addtokomafont{disposition}{\rmfamily}
+\usepackage[left=1in,right=1in,top=1in,bottom=1in,]{geometry}
 
 % Formatting
 \usepackage{multicol}
 \usepackage{float}
+\usepackage{hyperref}
 
 % Fonts
 \usepackage{fontspec}
-\setmainfont{Junicode}
-\newfontfamily{\devfont}[Scale=MatchUppercase, Script=Devanagari]{Martel}
+\setmainfont[
+    Path = assets/,
+    UprightFont = Junicode.ttf,
+    BoldFont = Junicode-Bold.ttf]{Junicode}
+\newfontfamily{\devfont}[
+    Path = assets/, 
+    UprightFont = Martel-Regular.ttf,
+    BoldFont = Martel-Bold.ttf,
+    Scale=MatchUppercase, Script=Devanagari]{Adobe Telugu}
 
 
 % Commands
 \newcommand{\dev}[1]{\begin{devfont}{#1}\end{devfont}}
-
 \newcommand{\romline}[1]{{#1}}
 \newcommand{\natline}[1]{\dev{#1}}
 
 % Variables
-
-\title{Bhagavad Gita}
-\date{}
+\title{Devanāgari Typesetting for \\ the Bhagavad Gita}
+\author{}
 
 \begin{document}
 \maketitle
@@ -38,9 +46,39 @@
 \input{sections/devanagari/opening-slokas.tex}
 
 \mainmatter
+% Start at Chapter 2
+\setcounter{chapter}{1}
 
 \chapter{Sāṅkhya Yoga}
-\input{sections/devanagari/chapter-2.tex}
+\begin{multicols}{2}
+    \input{sections/devanagari/chapter-2.tex}
+\end{multicols}
+
+\chapter{Karma Yoga}
+\begin{multicols}{2}
+    \input{sections/devanagari/chapter-3.tex}
+\end{multicols}
+
+% Go to Chapter 12
+\setcounter{chapter}{11}
+
+\chapter{Bhakti Yoga}
+\begin{multicols}{2}
+    \input{sections/devanagari/chapter-12.tex}
+\end{multicols}
+
+% Go to Chapter 15
+\setcounter{chapter}{14}
+
+\chapter{Puruṣottama-Prāpti Yoga}
+\begin{multicols}{2}
+    \input{sections/devanagari/chapter-15.tex}
+\end{multicols}
+
+\chapter{Daivāsura Sampad Vibhāga Yoga}
+\begin{multicols}{2}
+    \input{sections/devanagari/chapter-16.tex}
+\end{multicols}
 
 \backmatter
 \chapter{Closing Ślokas}

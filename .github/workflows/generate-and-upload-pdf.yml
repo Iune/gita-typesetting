@@ -27,6 +27,14 @@ jobs:
           working_directory: latex
           args: -xelatex -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
 
+      - name: Devanagari LaTeX Compilation
+        uses: dante-ev/latex-action@v0.2.0
+        with:
+          root_file: gita-devanagari.tex
+          working_directory: latex
+          args: -xelatex -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
+
+
       - name: Copy Built PDF to public/
         run: cp latex/gita-*.pdf public/
 

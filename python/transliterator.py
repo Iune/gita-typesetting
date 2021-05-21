@@ -68,15 +68,19 @@ def write_tex(output_file: str, slokas: List[Sloka], latex_cmd: str, chapter: st
                 f.write("\\newpage\n\n")
 
 
-def convert_file(input_file: str, iast_file: str, telugu_file: str, chapter: str,
-                 display_headers: bool, split_first_sloka: bool = False):
+def convert_file(input_file: str, iast_file: str, telugu_file: str, devanagari_file: str,
+                 chapter: str, display_headers: bool, split_first_sloka: bool = False):
     slokas = load_slokas(input_file)
     iast_slokas = convert_slokas(slokas, SchemeMap(
         SCHEMES[sanscript.ITRANS], SCHEMES[sanscript.IAST]), sanitize=False)
     telugu_slokas = convert_slokas(slokas, SchemeMap(
         SCHEMES[sanscript.ITRANS], SCHEMES[sanscript.TELUGU]), sanitize=True)
+    devanagari_slokas = convert_slokas(slokas, SchemeMap(
+        SCHEMES[sanscript.ITRANS], SCHEMES[sanscript.DEVANAGARI]), sanitize=True)
 
     write_tex(iast_file, iast_slokas, "romline", chapter,
               display_headers, split_first_sloka)
     write_tex(telugu_file, telugu_slokas, "natline", chapter,
+              display_headers, split_first_sloka)
+    write_tex(devanagari_file, devanagari_slokas, "natline", chapter,
               display_headers, split_first_sloka)
