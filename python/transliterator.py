@@ -29,37 +29,49 @@ def convert_slokas(slokas: List[Sloka], scheme_map: SchemeMap, sanitize: bool = 
     def sanitize_line(line: str) -> str:
         return line.replace("-", "").replace("·", " ") if sanitize else line
 
+    sloka_lines = [
+        [transliterate(sanitize_line(line), scheme_map=scheme_map)
+            for line in sloka.lines]
+        for sloka in slokas]
+
+    for sloka in sloka_lines:
+        if len(sloka) >= 4:
+            sloka[-3] += " |"
+            sloka[-1] += " ||"
+
     return [
-        Sloka(lines=[
-            transliterate(sanitize_line(line), scheme_map=scheme_map)
-            for line in sloka.lines
-        ])
-        for sloka in slokas
+        Sloka(lines=sloka)
+        for sloka in sloka_lines
     ]
 
 
 def write_tex(output_file: str, slokas: List[Sloka], latex_cmd: str, chapter: str = "",
               display_headers: bool = False, split_first_sloka: bool = False):
-    def sloka_to_tex(sloka: Sloka) -> str:
+    def sloka_to_tex(sloka: Sloka, chapter: int, sloka_num: int, display_headers: bool) -> str:
         tex: List[str] = []
         for idx, line in enumerate(sloka.lines):
             sanitized = line.replace("~", "\\textasciitilde{}")
+
+            line_opening = ""
+            if display_headers and idx == 0:
+                line_opening = f"\\textbf{{{chapter}.{sloka_num}}}"
+
             line_ending = ""
             if idx != len(sloka.lines) - 1:
                 line_ending = " \\\\"
-            tex.append(f"\\{latex_cmd}{{{sanitized}}}{line_ending}")
+
+            tex.append(
+                f"{line_opening} & \\{latex_cmd}{{{sanitized}}}{line_ending}")
         return "\n".join(tex)
 
     with open(output_file, "w") as f:
         for idx, sloka in enumerate(slokas):
-            if display_headers and len(chapter) > 0:
-                f.write(f"\\subsection*{{{chapter}.{idx}}}\n")
-
             # Table header
             f.write("\\begin{table}[H]\n")
-            f.write("\\begin{tabular}{l}\n")
+            f.write("\\begin{tabular}{cl}\n")
             # Table rows
-            f.write(f"{sloka_to_tex(sloka)}\n")
+            f.write(
+                f"{sloka_to_tex(sloka, chapter, idx, display_headers=display_headers)}\n")
             # Table footer
             f.write("\\end{tabular}\n")
             f.write("\\end{table}\n\n")
