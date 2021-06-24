@@ -144,7 +144,7 @@ guNa-karma-vibhAgayoH
 guNA guNeShu vartante
 iti matvA na sajjate
 
-prakRRiterguNasammUDhAH
+prakRRiterguNa-sammUDhAH
 sajjante guNakarmasu
 tAnakRRitsnavido mandAn
 kRRitsnavinna vichAlayet
@@ -161,11 +161,11 @@ muchyante te.api karmabhiH
 
 ye tvetadabhyasUyantaH
 nAnutiShThanti me matam
-sarvaj~nAnavimUDhAMstAn
+sarva-j~nAna-vimUDhAMstAn
 viddhi naShTAnachetasaH
 
 sadRRishaM cheShTate svasyAH
-prakRRiterj~nAnavAnapi
+prakRRiter-j~nAnavAnapi
 prakRRitiM yAnti bhUtAni
 nigrahaH kiM kariShyati
 
@@ -174,8 +174,8 @@ rAgadveShau vyavasthitau
 tayorna vashamAgachChet
 tau hyasya paripanthinau
 
-shreyAnsvadharmo viguNaH
-paradharmAtsvanuShThitAt
+shreyAn-svadharmo viguNaH
+paradharmAt-svanuShThitAt
 svadharme nidhanaM shreyaH
 paradharmo bhayAvahaH
 
@@ -187,29 +187,29 @@ balAdiva niyojitaH
 
 shrI bhagavAnuvAcha
 kAma eSha krodha eShaH
-rajoguNasamudbhavaH
+rajoguNa-samudbhavaH
 mahAshano mahApApmA
 viddhyenamiha vairiNam
 
-dhUmenAvriyate vahniH
-yathA.a.adarsho malena cha
+dhUmenA-vriyate vahniH
+yathA.adarsho malena cha
 yatholbenAvRRito garbhaH
 tathA tenedamAvRRitam
 
 AvRRitaM j~nAnametena
 j~nAnino nityavairiNA
-kAmarUpeNa kaunteya
+kAma-rUpeNa kaunteya
 duShpUreNAnalena cha
 
 indriyANi mano buddhiH
-asyAdhiShThAnamuchyate
-etairvimohayatyeShaH
+asyAdhiShThAna-muchyate
+etair-vimohayatyeShaH
 j~nAnamAvRRitya dehinam
 
-tasmAttvamindriyANyAdau
+tasmAttva-mindriyANyAdau
 niyamya bharatarShabha
-pApmAnaM prajahi hyenaM
-j~nAnavij~nAnanAshanam
+pApmAnaM prajahi·hyenaM
+j~nAna-vij~nAna-nAshanam
 
 indriyANi parANyAhuH
 indriyebhyaH paraM manaH
@@ -217,6 +217,6 @@ manasastu parAbuddhiH
 yo buddheH paratastu saH
 
 evaM buddheH paraM buddhvA
-saMstabhyAtmAnamAtmanA
+saMstabhyAt-mAnamAtmanA
 jahi shatruM mahAbAho
-kAmarUpaM durAsadam
+kAma-rUpaM durAsadam
