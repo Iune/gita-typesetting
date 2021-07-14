@@ -11,7 +11,7 @@ niyojayasi keshava
 vyAmishreNeva vAkyena
 buddhiM mohayasIva me
 tadekaM vada nishchitya
-yena shreyo.ahamApnuyAm
+yena·shreyo.ahamApnuyAm
 
 srI bhagavAnuvAcha
 loke.asmin-dvividhA niShThA
@@ -107,7 +107,7 @@ sampashyan-kartumarhasi
 yadyadAcharati·shreShThaH
 tatta-devetaro janaH
 sa yatpramANaM kurute
-lokasta-danuvartate
+loka-stadanuvartate
 
 na me pArthAsti kartavyaM
 triShu lokeShu ki~nchana
