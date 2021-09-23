@@ -80,8 +80,8 @@ tasmAtsarvagataM brahma
 nityaM yaj~ne pratiShThitam
 
 evaM pravartitaM chakraM
-nAnuvartayatIha yaH
-aghAyurindriyArAmaH
+nAnuvarta-yatIha yaH
+aghAyurindriyA-rAmaH
 moghaM pArtha sa jIvati
 
 yastvAt-maratireva syAt
@@ -146,7 +146,7 @@ iti matvA na sajjate
 
 prakRRiterguNa-sammUDhAH
 sajjante guNakarmasu
-tAnakRRitsnavido mandAn
+tAnakRRitsna-vido mandAn
 kRRitsnavinna vichAlayet
 
 mayi sarvANi karmANi
