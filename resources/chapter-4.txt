@@ -97,7 +97,7 @@ sa yuktaH kRRitsna-karmakRRit
 
 yasya sarve samArambhAH
 kAmasa~Nkalpa-varjitAH
-j~nAnAgni-dagdhakarmANaM
+j~nAnAgni-dagdha-karmANaM
 tamAhuH paNDitaM budhAH
 
 tyaktvA karma-phalAsa~NgaM
@@ -138,11 +138,11 @@ indriyA-gniShu juhvati
 sarvA-NIndriya-karmANi
 prANakarmANi chApare
 Atma-saMya-mayogAgnau
-juhvati j~nAnadIpite
+juhvati·j~nAnadIpite
 
 dravya-yaj~nAs-tapoyaj~nAH
 yogayaj~nAs-tathA.apare
-svAdhyAyaj~nA-nayaj~nAshcha
+svAdhyA-yaj~nA-nayaj~nAshcha
 yatayaH saMshitavratAH
 
 apAne juhvati·prANaM
@@ -165,7 +165,7 @@ vitatA brahmaNo mukhe
 karma-jAnviddhi tAnsarvAn
 evaM j~nAtvA vimokShyase
 
-shreyAn-dravya-mayAdyaj~nAt
+shreyAn-dravya-mayAd-yaj~nAt
 j~nAna-yaj~naH parantapa
 sarvaM karmAkhilaM pArtha
 j~nAne parisamApyate
@@ -190,7 +190,7 @@ bhasmasAt-kurute.arjuna
 j~nAnAgniH sarvakarmANi
 bhasmasAt-kurute tathA
 
-na hi j~nAnena sadRRishaM
+na hi·j~nAnena sadRRishaM
 pavitramiha vidyate
 tatsvayaM yogasaMsiddhaH
 kAlenAtmani vindati
