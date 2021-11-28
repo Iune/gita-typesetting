@@ -33,7 +33,7 @@ na tvaM vettha parantapa
 ajo.api san-navyayAtmA
 bhUtAnA-mIshvaro.api san
 prakRRitiM svAmadhiShThAya
-sambhavA-myAtmamAyayA
+sambhavAmyAt-mamAyayA
 
 yadA yadA hi dharmasya
 glAnirbhavati bhArata
@@ -135,7 +135,7 @@ saMya-mAgniShu juhvati
 shabdAdIn-viShayAn-anye
 indriyA-gniShu juhvati
 
-sarvA-NIndriya-karmANi
+sarvAN-IndriyakarmANi
 prANakarmANi chApare
 Atma-saMya-mayogAgnau
 juhvati·j~nAnadIpite
