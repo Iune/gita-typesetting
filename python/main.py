@@ -29,6 +29,7 @@ def main():
     write_latex("closing-slokas", "0", False)
     write_latex("chapter-2", "2", True)
     write_latex("chapter-4", "4", True)
+    write_latex("chapter-5", "5", True)
     write_latex("chapter-3", "3", True)
     write_latex("chapter-11", "11", True)
     write_latex("chapter-12", "12", True)
