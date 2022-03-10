@@ -104,7 +104,7 @@ nod-vijet-prApya chApriyam
 sthira-buddhira-sammUDhaH
 brahmavit brahmaNi sthitaH
 
-bAhyasparshe-ShvasaktAtmA
+bAhyas-parshe-ShvasaktAtmA
 vindatyAtmani yat sukham
 sa brahma-yoga-yuktAtmA
 sukha-makShaya-mashnute
@@ -140,7 +140,7 @@ prANApAnau samau kRRitvA
 nAsAbhyan-tarachAriNau
 
 yatendriya-manobuddhiH
-munir=mokSha-parAyaNaH
+munir-mokSha-parAyaNaH
 vigatechChA-bhaya-krodhaH
 yaH sadA mukta eva saH
 
