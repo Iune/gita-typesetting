@@ -11,8 +11,7 @@ class Sloka:
 
 def load_slokas(input_file: str) -> List[Sloka]:
     with open(input_file, "r") as f:
-        lines = [line.strip() for line in f.readlines()
-                 if not line.startswith("#")]
+        lines = [line.strip() for line in f.readlines() if not line.startswith("#")]
 
         slokas: List[Sloka] = []
         current_lines: List[str] = []
@@ -30,24 +29,32 @@ def convert_slokas(slokas: List[Sloka], scheme_map: SchemeMap, sanitize: bool = 
         return line.replace("-", "").replace("·", " ") if sanitize else line
 
     sloka_lines = [
-        [transliterate(sanitize_line(line), scheme_map=scheme_map)
-            for line in sloka.lines]
-        for sloka in slokas]
+        [
+            transliterate(sanitize_line(line), scheme_map=scheme_map)
+            for line in sloka.lines
+        ]
+        for sloka in slokas
+    ]
 
     for sloka in sloka_lines:
         if len(sloka) >= 4:
             sloka[-3] += " |"
             sloka[-1] += " ||"
 
-    return [
-        Sloka(lines=sloka)
-        for sloka in sloka_lines
-    ]
+    return [Sloka(lines=sloka) for sloka in sloka_lines]
 
 
-def write_tex(output_file: str, slokas: List[Sloka], latex_cmd: str, chapter: str = "",
-              display_headers: bool = False, split_first_sloka: bool = False):
-    def sloka_to_tex(sloka: Sloka, chapter: int, sloka_num: int, display_headers: bool) -> str:
+def write_tex(
+    output_file: str,
+    slokas: List[Sloka],
+    latex_cmd: str,
+    chapter: str = "",
+    display_headers: bool = False,
+    split_first_sloka: bool = False,
+):
+    def sloka_to_tex(
+        sloka: Sloka, chapter: str, sloka_num: int, display_headers: bool
+    ) -> str:
         tex: List[str] = []
         for idx, line in enumerate(sloka.lines):
             sanitized = line.replace("~", "\\textasciitilde{}")
@@ -60,8 +67,7 @@ def write_tex(output_file: str, slokas: List[Sloka], latex_cmd: str, chapter: st
             if idx != len(sloka.lines) - 1:
                 line_ending = " \\\\"
 
-            tex.append(
-                f"{line_opening} & \\{latex_cmd}{{{sanitized}}}{line_ending}")
+            tex.append(f"{line_opening} & \\{latex_cmd}{{{sanitized}}}{line_ending}")
         return "\n".join(tex)
 
     with open(output_file, "w") as f:
@@ -71,7 +77,8 @@ def write_tex(output_file: str, slokas: List[Sloka], latex_cmd: str, chapter: st
             f.write("\\begin{tabular}{cl}\n")
             # Table rows
             f.write(
-                f"{sloka_to_tex(sloka, chapter, idx, display_headers=display_headers)}\n")
+                f"{sloka_to_tex(sloka, chapter, idx, display_headers=display_headers)}\n"
+            )
             # Table footer
             f.write("\\end{tabular}\n")
             f.write("\\end{table}\n\n")
@@ -80,19 +87,48 @@ def write_tex(output_file: str, slokas: List[Sloka], latex_cmd: str, chapter: st
                 f.write("\\newpage\n\n")
 
 
-def convert_file(input_file: str, iast_file: str, telugu_file: str, devanagari_file: str,
-                 chapter: str, display_headers: bool, split_first_sloka: bool = False):
+def convert_file(
+    input_file: str,
+    iast_file: str,
+    telugu_file: str,
+    devanagari_file: str,
+    chapter: str,
+    display_headers: bool,
+    split_first_sloka: bool = False,
+):
     slokas = load_slokas(input_file)
-    iast_slokas = convert_slokas(slokas, SchemeMap(
-        SCHEMES[sanscript.ITRANS], SCHEMES[sanscript.IAST]), sanitize=False)
-    telugu_slokas = convert_slokas(slokas, SchemeMap(
-        SCHEMES[sanscript.ITRANS], SCHEMES[sanscript.TELUGU]), sanitize=True)
-    devanagari_slokas = convert_slokas(slokas, SchemeMap(
-        SCHEMES[sanscript.ITRANS], SCHEMES[sanscript.DEVANAGARI]), sanitize=True)
+    iast_slokas = convert_slokas(
+        slokas,
+        SchemeMap(SCHEMES[sanscript.ITRANS], SCHEMES[sanscript.IAST]),
+        sanitize=False,
+    )
+    telugu_slokas = convert_slokas(
+        slokas,
+        SchemeMap(SCHEMES[sanscript.ITRANS], SCHEMES[sanscript.TELUGU]),
+        sanitize=True,
+    )
+    devanagari_slokas = convert_slokas(
+        slokas,
+        SchemeMap(SCHEMES[sanscript.ITRANS], SCHEMES[sanscript.DEVANAGARI]),
+        sanitize=True,
+    )
 
-    write_tex(iast_file, iast_slokas, "romline", chapter,
-              display_headers, split_first_sloka)
-    write_tex(telugu_file, telugu_slokas, "natline", chapter,
-              display_headers, split_first_sloka)
-    write_tex(devanagari_file, devanagari_slokas, "natline", chapter,
-              display_headers, split_first_sloka)
+    write_tex(
+        iast_file, iast_slokas, "romline", chapter, display_headers, split_first_sloka
+    )
+    write_tex(
+        telugu_file,
+        telugu_slokas,
+        "natline",
+        chapter,
+        display_headers,
+        split_first_sloka,
+    )
+    write_tex(
+        devanagari_file,
+        devanagari_slokas,
+        "natline",
+        chapter,
+        display_headers,
+        split_first_sloka,
+    )

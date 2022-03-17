@@ -4,17 +4,14 @@ This repository contains resources to produce a LaTeX-typeset PDF for the Bhagav
 
 ## Setup
 
+Note: we are using [Poetry](https://python-poetry.org/) as the build system for the Python program to generate the LaTeX files. You should have `poetry` installed on your system.
+
 ```bash
-cd python
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+poetry install
 ```
 
 ## Generating LaTeX Files
 
 ```bash
-cd python
-source venv/bin/activate
-python main.py
+poetry run typesetting
 ```

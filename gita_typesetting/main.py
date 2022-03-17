@@ -1,4 +1,4 @@
-from transliterator import convert_file
+from gita_typesetting.transliterator import convert_file
 from os.path import dirname, join
 from pathlib import Path
 
@@ -8,7 +8,12 @@ def get_root_directory():
     return Path(file_dir).parent
 
 
-def write_latex(section_name: str, chapter: str, display_headers: bool, split_first_sloka: bool = False):
+def write_latex(
+    section_name: str,
+    chapter: str,
+    display_headers: bool,
+    split_first_sloka: bool = False,
+):
     root_directory = get_root_directory()
     source_directory = join(root_directory, "resources")
     output_directory = join(root_directory, "latex", "sections")
@@ -16,12 +21,18 @@ def write_latex(section_name: str, chapter: str, display_headers: bool, split_fi
     input_file = join(source_directory, f"{section_name}.txt")
     iast_file = join(output_directory, "iast", f"{section_name}.tex")
     telugu_file = join(output_directory, "telugu", f"{section_name}.tex")
-    devanagari_file = join(
-        output_directory, "devanagari", f"{section_name}.tex")
+    devanagari_file = join(output_directory, "devanagari", f"{section_name}.tex")
 
     print(f"Generating .tex files for {input_file}")
-    convert_file(input_file, iast_file, telugu_file, devanagari_file,
-                 chapter, display_headers, split_first_sloka)
+    convert_file(
+        input_file,
+        iast_file,
+        telugu_file,
+        devanagari_file,
+        chapter,
+        display_headers,
+        split_first_sloka,
+    )
 
 
 def main():
