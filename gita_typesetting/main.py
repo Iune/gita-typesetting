@@ -45,6 +45,7 @@ def main():
     write_latex("chapter-6", "6", True)
     write_latex("chapter-7", "7", True)
     write_latex("chapter-8", "8", True)
+    write_latex("chapter-9", "9", True)
     write_latex("chapter-11", "11", True)
     write_latex("chapter-12", "12", True)
     write_latex("chapter-13", "13", True)

@@ -21,9 +21,9 @@
     BoldFont = Junicode-Bold.ttf]{Junicode}
 \newfontfamily{\devfont}[
     Path = assets/, 
-    UprightFont = Eczar-Regular.ttf,
-    BoldFont = Eczar-Medium.ttf,
-    Scale=MatchUppercase, Script=Devanagari]{Eczar}
+    UprightFont = TiroDevanagariSanskrit-Regular.ttf,
+    ItalicFont = TiroDevanagariSanskrit-Italic.ttf,
+    Scale=MatchUppercase, Script=Devanagari]{Tiro Devanagari Sanskrit}
 
 % Commands
 \newcommand{\dev}[1]{\begin{devfont}{#1}\end{devfont}}
@@ -81,6 +81,11 @@
 \chapter{Akṣara-Parabrahma Yoga}
 \begin{multicols}{2}
     \input{sections/devanagari/chapter-8.tex}
+\end{multicols}
+
+\chapter{Rājavidyā-Rājaguhya Yoga}
+\begin{multicols}{2}
+    \input{sections/devanagari/chapter-9.tex}
 \end{multicols}
 
 % Go to Chapter 11
