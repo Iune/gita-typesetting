@@ -52,6 +52,7 @@ def main():
     write_latex("chapter-15", "15", True)
     write_latex("chapter-16", "16", True)
     write_latex("chapter-17", "17", True)
+    write_latex("chapter-18", "18", True)
 
 
 if __name__ == "__main__":
