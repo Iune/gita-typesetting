@@ -101,19 +101,20 @@ prochyate guNa-sa~NkhyAne
 yathA-vachChRRiNu tAnyapi
 
 sarvabhUteShu yenaikaM
-bhAvamavyayamIkShate
+bhAva-mavyaya-mIkShate
 avibhaktaM vibhakteShu
 taj-j~nAnaM viddhi sAttvikam
 
-pRRithaktvena tu yaj-j~nAnaM
-nAnAbhAvAn pRRithagvidhAn
+pRRithak-tvena tu yaj-j~nAnaM
+nAnAbhAvAn pRRithag-vidhAn
 vetti sarveShu bhUteShu
 taj-j~nAnaM viddhi rAjasam
 
-yattu kRRitsnavadekasmin
-kArye saktamahaitukam
+yattu kRRitsna-vadekasmin
+kArye sakta-mahaitukam
+# take another look at this line
 atattvArthavadalpaM cha
-tattAmasamudAhRRitam
+tattAma-samudAhRRitam
 
 niyataM sa~Ngarahitam
 arAgadveShataH kRRitam
@@ -155,9 +156,9 @@ kAryAkArye bhayAbhaye
 bandhaM mokShaM cha yA vetti
 buddhiH sA pArtha sAttvikI
 
-yayA dharmamadharmaM cha
+yayA dharmama-dharmaM cha
 kAryaM chAkAryameva cha
-ayathAvatprajAnAti
+ayathAvat-prajAnAti
 buddhiH sA pArtha rAjasI
 
 adharmaM dharmamiti yA
@@ -166,11 +167,11 @@ sarvArthAnviparItAMshcha
 buddhiH sA pArtha tAmasI
 
 dhRRityA yayA dhArayate
-manaH prANendriyakriyAH
+manaH prANendriya-kriyAH
 yogenAvyabhichAriNyA
 dhRRitiH sA pArtha sAttvikI
 
-yayA tu dharmakAmArthAn
+yayA tu dharma-kAmArthAn
 dhRRityA dhArayate.arjuna
 prasa~Ngena phalAkA~NkShI
 dhRRitiH sA pArtha rAjasI
@@ -182,7 +183,7 @@ dhRRitiH sA tAmasI matA
 
 sukhaM tvidAnIM trividhaM
 shRRiNu me bharatarShabha
-abhyAsAdramate yatra
+abhyAsA-dramate yatra
 duHkhAntaM cha nigachChati
 
 # End section to validate
@@ -220,3 +221,180 @@ shauryaM tejo dhRRitir-dAkShyaM
 yuddhe chApya-palAyanam
 dAnamIshvara-bhAvashcha
 kShAtraM karma·svabhAvajam
+
+kRRiShi-gaura-kShyavANijyaM
+vaishyakarma·svabhAvajam
+paricharyAtmakaM karma
+shUdrasyApi·svabhAvajam
+
+sve sve karmaNyabhirataH
+saMsiddhiM labhate naraH
+svakarma-nirataH siddhiM
+yathA vindati tachChRRiNu
+
+yataH pravRRittir-bhUtAnAM
+yena sarvamidaM tatam
+svakarmaNA tamabhyarchya
+siddhiM vindati mAnavaH
+
+shreyAn-svadharmo viguNaH
+paradharmAt-svanuShThitAt
+svabhAva-niyataM karma
+kurvannApnoti kilbiSham
+
+sahajaM karma kaunteya
+sadoShamapi na tyajet
+sarvA-rambhA hi doSheNa
+dhUmenAgniri-vAvRRitAH
+
+asaktabuddhiH sarvatra
+jitAtmA vigata-spRRihaH
+naiShkarmya-siddhiM paramAM
+sannyAsenAdhi-gachChati
+
+siddhiM prApto yathA brahma
+tathA.a.apnoti nibodha me
+samAsenaiva kaunteya
+niShThA j~nAnasya yA parA
+
+buddhyA vishuddhayA yuktaH
+dhRRityA.a.atmAnaM niyamya cha
+shabdAdIn-viShayAM-styaktvA
+rAga-dveShau·vyudasya cha
+
+viviktasevI laghvAshI
+yatavAkkAyamAnasaH
+dhyAnayogaparo nityaM
+vairAgyaM samupAshritaH
+
+aha~NkAraM balaM darpaM
+kAmaM krodhaM parigraham
+vimuchya nirmamaH shAntaH
+brahma-bhUyAya kalpate
+
+brahma-bhUtaH prasannAtmA
+na shochati na kA~NkShati
+samaH sarveShu bhUteShu
+madbhaktiM labhate parAm
+
+bhaktyA mAma-bhijAnAti
+yAvAnyashchAsmi tattvataH
+tato mAM tattvato j~nAtvA
+vishate tadanantaram
+
+sarva-karmANyapi sadA
+kurvANo madvya-pAshrayaH
+mat-prasAdA-davApnoti
+shAshvataM pada-mavyayam
+
+chetasA sarva-karmANi
+mayi sannyasya matparaH
+buddhi-yogamu-pAshritya
+machchittaH satataM bhava
+
+machchittaH sarvadurgANi
+matprasAdAttariShyasi
+atha chettva-maha~NkArAt
+na shroShyasi vina~NkShyasi
+
+yadaha~NkAra-mAshritya
+na yotsya iti manyase
+mithyaiSha vyava-sAyaste
+prakRRitistvAM niyokShyati
+
+svabhAva-jena kaunteya
+nibaddhaH svena karmaNA
+kartuM nechChasi yanmohAt
+kariShyas-yavasho.api tat
+
+IshvaraH sarva-bhUtAnAM
+hRRidde-she.arjuna tiShThati
+bhrAmayan-sarva-bhUtAni
+yantrA-rUDhAni mAyayA
+
+tameva sharaNaM gachCha
+sarva-bhAvena bhArata
+tatprasAdAt-parAM shAntiM
+sthAnaM prApsyasi shAshvatam
+
+iti te j~nAna-mAkhyAtaM
+guhyAd-guhya-taraM mayA
+vimRRishyai-tadasheSheNa
+yathechChasi tathA kuru
+
+sarva-guhya-tamaM bhUyaH
+shRRiNu me paramaM vachaH
+iShTo.asi me dRRiDhamiti
+tato vakShyAmi te hitam
+
+manmanA bhava madbhaktaH
+madyAjI mAM namaskuru
+mAmevaiShyasi satyaM te
+pratijAne priyo.asi me
+
+sarva-dharmAn-parityajya
+mAmekaM sharaNaM vraja
+ahaM tvA sarva-pApebhyaH
+mokSha-yiShyAmi mA shuchaH
+
+idaM te nAta-paskAya
+nAbhaktAya kadAchana
+na chAshush-rUShave vAchyaM
+na cha mAM yo.abhya-sUyati
+
+ya imaM paramaM guhyaM
+madbhakteShva-bhidhAsyati
+bhaktiM mayi parAM kRRitvA
+mAmevaiShyatya-saMshayaH
+
+na cha tasmAn-manuShyeShu
+kashchinme priyakRRittamaH
+bhavitA na cha me tasmAt
+anyaH priyataro bhuvi
+
+adhyeShyate cha ya imaM
+dharmyaM saMvAda-mAvayoH
+j~nAna-yaj~nena tenAham
+iShTaH syAmiti me matiH
+
+shraddhAvAnana-sUyashcha
+shRRiNuyAdapi yo naraH
+so.api muktaH shubhAllokAn
+prApnuyAt-puNya-karmaNAm
+
+kachchideta-chChrutaM pArtha
+tvayai-kAgreNa chetasA
+kachchida-j~nAna-sammohaH
+pranaShTaste dhana~njaya
+
+arjuna uvAcha
+naShTo mohaH smRRitir-labdhA
+tvat-prasAdAn-mayA.achyuta
+sthito.asmi gata-sandehaH
+kariShye vachanaM tava
+
+sa~njaya uvAcha
+ityahaM vAsudevasya
+pArthasya cha mahAtmanaH
+saMvAdamimamashrauSham
+adbhutaM romaharShaNam
+
+vyAsaprasAdAchChrutavAn
+imaM guhyatamaM param
+yogaM yogeshvarAtkRRiShNAt
+sAkShAtkathayataH svayam
+
+rAjan saMsmRRitya saMsmRRitya
+saMvAdamimamadbhutam
+keshavArjunayoH puNyaM
+hRRiShyAmi cha muhurmuhuH
+
+tachcha saMsmRRitya saMsmRRitya
+rUpamatyadbhutaM hareH
+vismayo me mahAnrAjan
+hRRiShyAmi cha punaH punaH
+
+yatra yogeshvaraH kRRiShNaH
+yatra pArtho dhanurdharaH
+tatra shrIrvijayo bhUtiH
+dhruvA nItirmatirmama
