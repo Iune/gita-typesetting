@@ -49,9 +49,9 @@ madarthe tyakta-jIvitAH
 nAnAshastra-praharaNAH
 sarve yuddha-vishAradAH 
 
-aparyAptaM tadasmAkaM
+aparyAptaM tadas-mAkaM
 balaM bhIShmA-bhirakShitam
-paryAptaM tvidameteShAM
+paryAptaM tvidame-teShAM
 balaM bhImA-bhirakShitam
 
 ayaneShu cha sarveShu
@@ -70,7 +70,7 @@ saha-saivAbhya-hanyanta
 sa shabda-stumulo.abhavat
 
 tataH shvetair-hayair-yukte
-mahati syandane sthitau
+mahati·syan-dane sthitau
 mAdhavaH pANDavashchaiva
 divyau sha~Nkhau pradadhmatuH
 
@@ -86,23 +86,23 @@ sugho-ShamaNi-puShpakau
 
 kAshyashcha parameShvAsaH 
 shikhaNDI cha mahArathaH
-dhRRiShTadyumno virATashcha
-sAtyakishchAparAjitaH
+dhRRiShTa-dyumno virATashcha
+sAtyakishchA-parAjitaH
 
 drupado draupadeyAshcha
 sarvashaH pRRithivIpate
-soubhadrashcha mahAbAhuH
+soubha-drashcha mahAbAhuH
 sha~NkhAn-dadhmuH pRRithak-pRRithak
 
 sa ghoSho dhArta-rAShTrANAM
 hRRidayAni·vyadArayat
 nabhashcha pRRithivIM chaiva
-tumulo vyanunAdayan
+tumulo vyanu-nAdayan
 
-atha·vyavasthitAn-dRRiShTvA
+atha·vya-vasthitAn-dRRiShTvA
 dhArta-rAShTrAn kapidhvajaH
 pravRRitte shastra-sampAte
-dhanurudyamya pANDavaH
+dhanu-rudyamya pANDavaH
 
 hRRiShIkeshaM tadA vAkyam
 idamAha mahIpate
@@ -124,7 +124,7 @@ sa~njaya uvAca
 evamukto hRRiShIkeshaH
 guDAkeshena bhArata
 senayor-ubhayor-madhye
-sthApayitvA rathottamam
+sthApa-yitvA rathottamam
 
 bhIShma-droNa-pramukhataH
 sarveShAM ca mahIkShitAm
@@ -153,14 +153,14 @@ vepathushca sharIre me
 romaharShashca jAyate
 
 gANDIvaM sraMsate hastAt
-tvakcaiva paridahyate
+tvakcaiva pari-dahyate
 na ca shaknomya-vasthAtuM
 bhramatIva ca me manaH
 
 nimittAni ca pashyAmi
 viparItAni keshava
 na ca shreyo.anupashyAmi
-hatvA svajanamAhave
+hatvA svajana-mAhave
 
 na kA~NkShe vijayaM kRRiShNa
 na ca rAjyaM sukhAni ca
@@ -178,7 +178,7 @@ mAtulAH shvashurAH pautrAH
 shyAlAH samban-dhinastathA
 
 etAnna hantumicchAmi
-ghnato.api madhusUdana
+ghnato.api madhu-sUdana
 api trailokya-rAjyasya
 hetoH kiM nu mahIkRRite
 
@@ -228,7 +228,7 @@ narake.aniyataM vAsaH
 bhavatI-tyanushushruma
 
 aho bata mahat-pApaM
-kartuM vyavasitA vayam
+kartuM vyava-sitA vayam
 yadrAjya-sukha-lobhena
 hantuM svajana-mudyatAH
 
