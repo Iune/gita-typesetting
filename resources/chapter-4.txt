@@ -4,9 +4,9 @@ j~nAna-yogaH
 
 shrI bhagavAnuvAcha
 imaM vivasvate yogaM
-proktavA-nahamavyayam
+proktavA-naha-mavyayam
 vivasvAn-manave prAha
-manurikShvAkave.abravIt
+manurikShvA-kave.abravIt
 
 evaM paramparA-prAptam
 imaM rAjarShayo viduH
@@ -16,7 +16,7 @@ yogo naShTaH parantapa
 sa evAyaM mayA te.adya
 yogaH proktaH purAtanaH
 bhakto.asi me sakhA ceti
-rahasyaM hyetaduttamam
+rahasyaM hyeta-duttamam
 
 arjuna uvAcha
 aparaM bhavato janma
@@ -30,19 +30,19 @@ janmAni tava chArjuna
 tAnyahaM veda sarvANi
 na tvaM vettha parantapa
 
-ajo.api san-navyayAtmA
+ajo.api sann-avyayAtmA
 bhUtAnA-mIshvaro.api san
-prakRRitiM svAmadhiShThAya
-sambhavAmyAt-mamAyayA
+prakRRitiM svAma-dhiShThAya
+sambhavA-myAt-mamAyayA
 
 yadA yadA hi dharmasya
-glAnirbhavati bhArata
+glAnir-bhavati bhArata
 abhyutthAna-madharmasya
 tadA.a.atmAnaM sRRijAmyaham
 
 paritrANAya sAdhUnAM
 vinAshAya cha duShkRRitAm
-dharmasaMsthApanArthAya
+dharma-saMsthApa-nArthAya
 sambhavAmi yuge yuge
 
 janma karma cha me divyam
@@ -57,18 +57,18 @@ pUtA madbhAva-mAgatAH
 
 ye yathA mAM prapadyante
 tAMstathaiva bhajAmyaham
-mama vartmAnuvartante
+mama vartmAnu-vartante
 manuShyAH pArtha sarvashaH
 
 kA~NkShantaH karmaNAM siddhiM
 yajanta iha devatAH
 kShipraM hi mAnuShe loke
-siddhirbhavati karmajA
+siddhir-bhavati karmajA
 
-chAturvarNyaM mayA sRRiShTaM
+chAtur-varNyaM mayA sRRiShTaM
 guNa-karma-vibhAgashaH
-tasya kartAramapi mAM
-viddhyakartAra-mavyayam
+tasya kartAra-mapi mAM
+viddhya-kartAra-mavyayam
 
 na mAM karmANi limpanti
 na me karmaphale spRRihA
@@ -78,9 +78,9 @@ karmabhirna sa badhyate
 evaM j~nAtvA kRRitaM karma
 pUrvairapi mumukShubhiH
 kuru karmaiva tasmAttvaM
-pUrvaiH pUrvataraM kRRitam
+pUrvaiH pUrva-taraM kRRitam
 
-kiM karma kimakarmeti
+kiM karma kima-karmeti
 kavayo.apyatra mohitAH
 tatte karma pravakShyAmi
 yaj-j~nAtvA mokShyase.ashubhAt
@@ -90,18 +90,18 @@ boddhavyaM cha vikarmaNaH
 akarmaNashcha boddhavyaM
 gahanA karmaNo gatiH
 
-karmaNyakarma yaH pashyet
+karmaNya-karma yaH pashyet
 akarmaNicha karma yaH
 sa buddhimAn-manuShyeShu
 sa yuktaH kRRitsna-karmakRRit
 
-yasya sarve samArambhAH
-kAmasa~Nkalpa-varjitAH
+yasya sarve samA-rambhAH
+kAma-sa~Nkalpa-varjitAH
 j~nAnAgni-dagdha-karmANaM
 tamAhuH paNDitaM budhAH
 
 tyaktvA karma-phalAsa~NgaM
-nityatRRipto nirAshrayaH
+nitya-tRRipto nirAshrayaH
 karmaNyabhi-pravRRitto.api
 naiva ki~nchitkaroti saH
 
@@ -125,7 +125,7 @@ brahmAgnau brahmaNA hutam
 brahmaiva tena gantavyaM
 brahma-karma-samAdhinA
 
-daivamevApare yaj~naM
+daiva-mevApare yaj~naM
 yoginaH paryupAsate
 brahmAgnA-vapare yaj~naM
 yaj~ne-naivopa-juhvati
@@ -135,15 +135,15 @@ saMya-mAgniShu juhvati
 shabdAdIn-viShayAn-anye
 indriyA-gniShu juhvati
 
-sarvAN-IndriyakarmANi
-prANakarmANi chApare
-Atma-saMya-mayogAgnau
-juhvati·j~nAnadIpite
+sarvAN-Indriya-karmANi
+prANa-karmANi chApare
+Atma-saMyama-yogAgnau
+juhvati·j~nAna-dIpite
 
-dravya-yaj~nAs-tapoyaj~nAH
-yogayaj~nAs-tathA.apare
+dravya-yaj~nAstapo-yaj~nAH
+yoga-yaj~nAs-tathA.apare
 svAdhyA-yaj~nA-nayaj~nAshcha
-yatayaH saMshitavratAH
+yatayaH saM-shita-vratAH
 
 apAne juhvati·prANaM
 prANe.apAnaM tathApare
@@ -152,8 +152,8 @@ prANAyAma-parAyaNAH
 
 apare niyatAhArAH
 prANAn-prANeShu juhvati
-sarve.apyete yaj~navidaH
-yaj~nakShapita-kalmaShAH
+sarve.apyete yaj~na-vidaH
+yaj~na-kShapita-kalmaShAH
 
 yaj~na-shiShTAmRRita-bhujaH
 yAnti brahma sanAtanam
@@ -168,7 +168,7 @@ evaM j~nAtvA vimokShyase
 shreyAn-dravya-mayAd-yaj~nAt
 j~nAna-yaj~naH parantapa
 sarvaM karmAkhilaM pArtha
-j~nAne parisamApyate
+j~nAne parisa-mApyate
 
 tadviddhi praNipAtena
 pariprashnena sevayA
@@ -182,35 +182,35 @@ drakShyasyAt-manyatho mayi
 
 api chedasi pApebhyaH
 sarvebhyaH pApakRRittamaH
-sarvaM j~nAnaplavenaiva
+sarvaM j~nAna-plavenaiva
 vRRijinaM santariShyasi
 
 yathaidhAMsi samiddho.agniH
 bhasmasAt-kurute.arjuna
-j~nAnAgniH sarvakarmANi
+j~nAnAgniH sarva-karmANi
 bhasmasAt-kurute tathA
 
 na hi·j~nAnena sadRRishaM
-pavitramiha vidyate
-tatsvayaM yogasaMsiddhaH
+pavitra-miha vidyate
+tat-svayaM yoga-saMsiddhaH
 kAlenAtmani vindati
 
 shraddhAvAn labhate j~nAnaM
-tatparaH saMyatendriyaH
+tatparaH saM-yatendriyaH
 j~nAnaM labdhvA parAM shAntim
-achireNAdhigachChati
+achireNAdhi-gachChati
 
 aj~nashchA-shraddadhAnashcha
 saMshayAtmA vinashyati
 nAyaM loko.asti na paraH
 na sukhaM saMshayAtmanaH
 
-yogasannyasta-karmANaM
+yoga-sannyasta-karmANaM
 j~nAna-sa~nChinna-saMshayam
-AtmavantaM na karmANi
+Atma-vantaM na karmANi
 nibadhnanti dhana~njaya
 
-tasmAda-j~nAnasambhUtaM
+tasmAda-j~nAna-sambhUtaM
 hRRitsthaM j~nAnA-sinAtmanaH
 ChittvainaM saMshayaM yogam
 AtiShThottiShTha bhArata
