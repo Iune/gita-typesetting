@@ -5,13 +5,13 @@ vishvarUpa sandarshana yogaH
 arjuna uvAcha
 madanugrahAya paramaM
 guhya-madhyAt-masa~nj~nitam
-yattvayoktaM vachastena
+yattva-yoktaM vachastena
 moho.ayaM vigato mama
 
 bhavApyayau hi bhUtAnAM
 shrutau vistarasho mayA
 tvattaH kamala-patrAkSha
-mAhAtmyamapi chAvyayam
+mAhAtmya-mapi chAvyayam
 
 evametad-yathA.a.attha tvam
 AtmAnaM parameshvara
@@ -26,12 +26,12 @@ darshayAtmAna-mavyayam
 shrI bhagavAnuvAcha
 pashya me pArtha rUpANi
 shatasho.atha sahasrashaH
-nAnAvidhAni divyAni
-nAnAvarNAkRRitIni cha
+nAnA-vidhAni divyAni
+nAnA-varNA-kRRitIni cha
 
-pashyA-dityAn-vasUnrudrAn
-ashvinau marutastathA
-bahUnyadRRiShTa-pUrvANi
+pashyA-dityAn-vasUn-rudrAn
+ashvinau maruta-stathA
+bahUnya-dRRiShTa-pUrvANi
 pashyAshcharyANi bhArata
 
 ihaikasthaM jagatkRRitsnaM
@@ -58,7 +58,7 @@ divyA-nekodya-tAyudham
 divya-mAlyAmbara-dharaM
 divya-gandhAnulepanam
 sarvAshcharya-mayaM devam
-anantaM vishvatomukham
+anantaM vishvato-mukham
 
 divi sUrya-sahasrasya
 bhaved-yuga-padutthitA
@@ -70,7 +70,7 @@ pravibhakta-manekadhA
 apashyad-devadevasya
 sharIre pANDavastadA
 
-tataH sa vismayAviShTaH
+tataH sa vismayA-viShTaH
 hRRiShTaromA dhana~njayaH
 praNamya shirasA devaM
 kRRitA~n-jalira-bhAShata
@@ -87,14 +87,14 @@ nAntaM na madhyaM na punastavAdiM
 pashyAmi vishveshvara vishvarUpa
 
 kirITinaM gadinaM chakriNaM cha
-tejorAshiM sarvato dIptimantam
+tejo-rAshiM sarvato dIpti-mantam
 pashyAmi·tvAM durni-rIkShyaM samantAt
 dIptA-nalArka-dyuti-maprameyam
 
 tvamakSharaM paramaM veditavyaM
 tvamasya vishvasya paraM nidhAnam
 tva-mavyayaH shAshvata-dharma-goptA
-sanAtanastvaM puruSho mato me
+sanAtana-stvaM puruSho mato me
 
 anAdi-madhyAnta-mananta-vIryam
 ananta-bAhuM shashi-sUrya-netram
@@ -104,24 +104,24 @@ svatejasA vishvamidaM tapantam
 dyAvA-pRRithiv-yorida-mantaraM hi
 vyAptaM tva-yaikena dishashcha sarvAH
 dRRiShTvAd-bhutaM rUpamidaM tavograM
-lokatrayaM pravyathitaM mahAtman
+loka-trayaM pravyathitaM mahAtman
 
 amI hi·tvA surasa~NghA vishanti
 kechid-bhItAH prA~njalayo gRRiNanti
-svastI-tyuktvA maharShisiddha-sa~NghAH
-stuvanti·tvAM stutibhiH puShkalAbhiH
+svastI-tyuktvA maharShi-siddha-sa~NghAH
+stuvanti·tvAM stuti-bhiH puShka-lAbhiH
 
 rudrAdityA vasavo ye cha sAdhyAH
-vishve.ashvinau marutashchoShmapAshcha
+vishve.ashvinau maruta-shchoShmapAshcha
 gandharva-yakShA-surasiddha-sa~NghAH
 vIkShante tvAM vismitAshchaiva sarve
 
 rUpaM mahatte bahuvaktra netraM
 mahAbAho bahubAhU-rupAdam
-bahUdaraM bahudaMShTrA-karAlaM
+bahUdaraM bahu-daMShTrA-karAlaM
 dRRiShTvA lokAH pravyathitA-stathA.aham
 
-nabhaH spRRishaM dIpta-manekavarNaM
+nabhaH spRRishaM dIpta-maneka-varNaM
 vyAttA-nanaM dIpta-vishAla-netram
 dRRiShTvA hi·tvAM pravyathitAn-tarAtmA
 dhRRitiM na vindAmi shamaM cha viShNo
@@ -151,9 +151,9 @@ vishanti nAshAya samRRiddha-vegAH
 tathaiva nAshAya vishanti lokAH
 tavApi vaktrANi samRRiddha-vegAH
 
-lelihyase grasamAnaH samantAt
-lokAn-samagrAn-vadanair-jvaladbhiH
-tejobhirApUrya jagat-samagraM
+leli-hyase grasamAnaH samantAt
+lokAn-samagrAn-vadanair-jvalad-bhiH
+tejo-bhirApUrya jagat-samagraM
 bhAsas-tavogrAH pratapanti viShNo
 
 AkhyAhi me ko bhavA-nugra-rUpaH
@@ -162,7 +162,7 @@ vij~nAtu-michChAmi bhavanta-mAdyaM
 na hi·prajAnAmi tava·pravRRittim
 
 shrI bhagavAnuvAcha
-kAlo.asmi lokakShayakRRit-pravRRiddhaH
+kAlo.asmi loka-kShaya-kRRit-pravRRiddhaH
 lokAn-samAhartu-miha·pravRRittaH
 RRite.api·tvA na bhaviShyanti sarve
 ye.avasthitAH pratya-nIkeShu yodhAH
@@ -173,7 +173,7 @@ mayaivaite nihatAH pUrvameva
 nimitta-mAtraM bhava savyasAchin
 
 droNaM cha bhIShmaM cha jayadrathaM cha
-karNaM tathAnyAnapi yodhavIrAn
+karNaM tathAnyA-napi yodha-vIrAn
 mayA hatAMstvaM jahi mA vyathiShThAH
 yudhyasva jetAsi raNe sapatnAn
 
@@ -185,7 +185,7 @@ sagad-gadaM bhIta-bhItaH praNamya
 
 arjuna uvAcha
 sthAne hRRiShIkesha tava·prakIrtyA
-jagat-prahRRiShya-tyanurajyate cha
+jagat-prahRRiShya-tyanu-rajyate cha
 rakShAMsi bhItAni disho dravanti
 sarve namasyanti cha siddha-sa~NghAH
 
@@ -211,10 +211,10 @@ sarvaM samApnoShi tato.asi sarvaH
 
 sakheti matvA prasabhaM yaduktaM
 he kRRiShNa he yAdava he sakheti
-ajAnatA mahimAnaM tavedaM
-mayA pramAdAt-praNayena vA.api
+ajAnatA mahi-mAnaM tavedaM
+mayA pramAdAt-praNa-yena vA.api
 
-yachchA-pahAsArthama-satkRRito.asi
+yachchA-pahA-sArthama-satkRRito.asi
 vihAra-shayyA-sanabho-janeShu
 eko.athavA-pyachyuta tatsamakShaM
 tatkShAmaye tvA-mahama-prameyam
@@ -222,7 +222,7 @@ tatkShAmaye tvA-mahama-prameyam
 pitAsi lokasya charAcharasya
 tvamasya pUjyashcha gurur-garIyAn
 na tvatsamo.astyabhya-dhikaH kuto.anyaH
-lokatraye.apya-pratima-prabhAva
+loka-traye.apya-pratima-prabhAva
 
 tasmAt-praNamya·praNidhAya kAyaM
 prasAdaye tvA-maha-mIsha-mIDyam
@@ -235,9 +235,9 @@ tadeva me darshaya devarUpaM
 prasIda devesha jagannivAsa
 
 kirITinaM gadinaM chakrahastam
-ichChAmi·tvAM draShTumahaM tathaiva
+ichChAmi·tvAM draShTu-mahaM tathaiva
 tenaiva rUpeNa chaturbhujena
-sahasrabAho bhava vishvamUrte
+sahasra-bAho bhava vishvamUrte
 
 shrI bhagavAnuvAcha
 mayA prasannena tavArjunedaM
@@ -257,14 +257,14 @@ tadeva me rUpamidaM prapashya
 
 sa~njaya uvAcha
 ityarjunaM vAsudevas-tathoktvA
-svakaM rUpaM darshayAmAsa bhUyaH
-AshvAsayA-mAsa cha bhItamenaM
+svakaM rUpaM darshayA-mAsa bhUyaH
+AshvAsayA-mAsa cha bhIta-menaM
 bhUtvA punaH saumya-vapur-mahAtmA
 
 arjuna uvAcha
 dRRiShTvedaM mAnuShaM rUpaM
 tava saumyaM janArdana
-idAnImasmi saMvRRittaH
+idAnI-masmi saMvRRittaH
 sachetAH prakRRitiM gataH
 
 shrI bhagavAnuvAcha
