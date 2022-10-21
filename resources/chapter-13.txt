@@ -1,10 +1,10 @@
 oM shrI paramAtmane namaH
 atha trayodasho.adhyAyaH
-kShetra-kShetraj~navibhAga-yogaH
+kShetra-kShetra-j~navibhAga-yogaH
 
 arjuna uvAcha
 prakRRitiM puruShaM chaiva
-kShetraM kShetraj~nameva cha
+kShetraM kShetra-j~nameva cha
 etat veditu-michChAmi
 j~nAnaM j~neyaM cha keshava
 
@@ -15,7 +15,7 @@ etadyo vetti taM prAhuH
 kShetraj~na iti tadvidaH
 
 kShetraj~naM chApi mAM viddhi
-sarvakShetreShu bhArata
+sarva-kShetreShu bhArata
 kShetra-kShetra-j~nayor-j~nAnaM
 yattaj-j~nAnaM mataM mama
 
@@ -30,38 +30,38 @@ brahmasUtra-padaishchaiva
 hetumadbhir-vinishchitaiH
 
 mahA-bhUtAnya-ha~NkAraH
-buddhir-avyaktameva cha
+buddhir-avyakta-meva cha
 indriyANi dashaikaM cha
 pa~ncha chendriya-gocharAH
 
 ichchhA dveShaH sukhaM duHkhaM
 sa~NghAtash-chetanA dhRRitiH
-etatkShetraM samAsena
+etat-kShetraM samAsena
 savikAra-mudAhRRitam
 
-amAnitva-madaMbhitvam
+amAnitva-madaM-bhitvam
 ahiMsA kShAnti-rArjavam
 AchAryo-pAsanaM shauchaM
-sthair-yamAtma-vinigrahaH
+sthair-yamAtma-vini-grahaH
 
 indriyArtheShu vairAgyam
 anaha~NkAra eva cha
 janma-mRRityu-jarA-vyAdhi-
 duHkha-doShAnu-darshanam
 
-asakti-ranabhiShva~NgaH
-putradAra-gRRihAdiShu
+asakti-rana-bhiShva~NgaH
+putra-dAra-gRRihAdiShu
 nityaM cha sama-chittatvam
 iShTAniShTo-papattiShu
 
 mayi chAnanya-yogena
-bhaktiravya-bhichAriNI
+bhaktir-avya-bhichAriNI
 vivikta-desha-sevitvam
 aratir-janasaMsadi
 
-adhyAtma-j~nAna-nityatvaM
+adhyAtma-j~nAna-nitya-tvaM
 tattva-j~nAnArtha-darshanam
-etaj-j~nAnamiti·proktam
+etaj-j~nAna-miti·proktam
 aj~nAnaM yadato.anyathA
 
 j~neyaM yattat-pravakShyAmi
@@ -72,21 +72,21 @@ na sattannA-saduchyate
 sarvataH pANi-pAdaM tat
 sarvato.akShishiro-mukham
 sarvataH shruti-malloke
-sarvamAvRRitya tiShThati
+sarva-mAvRRitya tiShThati
 
-sarvendriya-guNAbhAsaM
+sarvendriya-guNA-bhAsaM
 sarvendriya-vivarjitam
 asaktaM sarva-bhRRichchaiva
-nirguNaM guNa-bhoktRRi cha
+nirguNaM guNa-bhok-tRRi cha
 
-bahirantashcha bhUtAnAm
+bahi-rantashcha bhUtAnAm
 acaraM charameva cha
-sUkShmatvAttada-vij~neyaM
+sUkShma-tvAt-tada-vij~neyaM
 dUrasthaM chAntike cha tat
 
 avibhaktaM cha bhUteShu
 vibhakta-miva cha sthitam
-bhUta-bhartRRi cha taj-j~neyaM
+bhUta-bhar-tRRi cha taj-j~neyaM
 grasiShNu·prabha-viShNu cha
 
 jyotiShA-mapi taj-jyotiH
@@ -96,39 +96,38 @@ hRRidi sarvasya viShThitam
 
 iti·kShetraM tathA j~nAnaM
 j~neyaM choktaM samAsataH
-madbhakta etadvij~nAya
+madbhakta etad-vij~nAya
 madbhAvAyo-papadyate
 
 prakRRitiM puruShaM chaiva
-viddhyanAdI ubhAvapi
+viddhya-nAdI ubhAvapi
 vikArAMshcha guNAMshchaiva
 viddhi·prakRRiti-sambhavAn
 
-kAryakaraNa-kartRRitve
+kArya-karaNa-kartRRitve
 hetuH prakRRiti-ruchyate
 puruShaH sukha-duHkhAnAM
 bhok-tRRitve heturuchyate
 
-puruShaH prakRRitistho hi
+puruShaH prakRRi-tistho hi
 bhu~Nkte prakRRiti-jAnguNAn
-kAraNaM guNasa~Ngo.asya
-sadasadyo-nijanmasu
+kAraNaM guNa-sa~Ngo.asya
+sada-sadyo-nijanmasu
 
-upadraShTA.anumantA cha
+upadraShTA.anu-mantA cha
 bhartA bhoktA maheshvaraH
 paramAtmeti chApyuktaH
 dehe.asmin-puruShaH paraH
 
-# Handle divisions
 ya evaM vetti puruShaM
 prakRRitiM cha guNaiH saha
 sarvathA vartamAno.api
 na sa bhUyo.abhijAyate
 
-dhyAnenAtmani pashyanti
-kechidAtmAnamAtmanA
+dhyAne-nAtmani pashyanti
+kechidAtmAna-mAtmanA
 anye sA~Nkhyena yogena
-karmayogena chApare
+karma-yogena chApare
 
 anye tvevama-jAnantaH
 shrutvA.anyebhya upAsate
@@ -142,16 +141,16 @@ tadviddhi bhara-tarShabha
 
 samaM sarveShu bhUteShu
 tiShThantaM parameshvaram
-vinashyat-svavinashyantaM
+vinashyat-svavi-nashyantaM
 yaH pashyati sa pashyati
 
 samaM pashyanhi sarvatra
-samavasthita-mIshvaram
+sama-vasthita-mIshvaram
 na hi-nastyAt-manA.a.atmAnaM
 tato yAti parAM gatim
 
 prakRRityaiva cha karmANi
-kriyamANAni sarvashaH
+kriya-mANAni sarvashaH
 yaH pashyati tathA.a.atmAnam
 akartAraM sa pashyati
 
