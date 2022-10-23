@@ -3,7 +3,7 @@ atha ekAdasho.adhyAyaH
 vishvarUpa sandarshana yogaH
 
 arjuna uvAcha
-madanugrahAya paramaM
+madanu-grahAya paramaM
 guhya-madhyAt-masa~nj~nitam
 yattva-yoktaM vachastena
 moho.ayaM vigato mama
@@ -56,12 +56,12 @@ aneka-divyA-bharaNaM
 divyA-nekodya-tAyudham
 
 divya-mAlyAmbara-dharaM
-divya-gandhAnulepanam
+divya-gandhAnu-lepanam
 sarvAshcharya-mayaM devam
 anantaM vishvato-mukham
 
 divi sUrya-sahasrasya
-bhaved-yuga-padutthitA
+bhaved-yuga-pad-utthitA
 yadi bhAH sadRRishI sA syAt
 bhAsastasya mahAtmanaH
 
@@ -83,7 +83,7 @@ RRiShIMshcha sarvA-nuragAMshcha divyAn
 
 aneka-bAhU-dara-vaktra-netraM
 pashyAmi·tvA sarvato.anantarUpam
-nAntaM na madhyaM na punastavAdiM
+nAntaM na madhyaM na punasta-vAdiM
 pashyAmi vishveshvara vishvarUpa
 
 kirITinaM gadinaM chakriNaM cha
@@ -170,7 +170,7 @@ ye.avasthitAH pratya-nIkeShu yodhAH
 tasmAttva-muttiShTha yasho labhasva
 jitvA shatrUn-bhu~NkShva rAjyaM samRRiddham
 mayaivaite nihatAH pUrvameva
-nimitta-mAtraM bhava savyasAchin
+nimitta-mAtraM bhava savya-sAchin
 
 droNaM cha bhIShmaM cha jayadrathaM cha
 karNaM tathAnyA-napi yodha-vIrAn
@@ -204,7 +204,7 @@ prajA-patistvaM prapitA-mahashcha
 namo namaste.astu sahasra-kRRitvaH
 punashcha bhUyo.api namo namaste
 
-namaH purastA-datha·pRRiShTha-taste
+namaH purastA-datha pRRiShTha-taste
 namo.astu te sarvata eva sarva
 ananta-vIryA-mita-vikrama-stvaM
 sarvaM samApnoShi tato.asi sarvaH
@@ -216,12 +216,12 @@ mayA pramAdAt-praNa-yena vA.api
 
 yachchA-pahA-sArthama-satkRRito.asi
 vihAra-shayyA-sanabho-janeShu
-eko.athavA-pyachyuta tatsamakShaM
-tatkShAmaye tvA-mahama-prameyam
+eko.athavA-pyachyuta tat-samakShaM
+tatkShA-maye tvA-mahama-prameyam
 
 pitAsi lokasya charAcharasya
 tvamasya pUjyashcha gurur-garIyAn
-na tvatsamo.astyabhya-dhikaH kuto.anyaH
+na tvat-samo.astyabhya-dhikaH kuto.anyaH
 loka-traye.apya-pratima-prabhAva
 
 tasmAt-praNamya·praNidhAya kAyaM
@@ -246,9 +246,9 @@ tejomayaM vishva-mananta-mAdyaM
 yanme tvadanyena na dRRiShTapUrvam
 
 na veda-yaj~nA-dhyaya-nairna dAnaiH
-na cha kriyAbhirna tapo-bhirugraiH
+na cha·kriyAbhirna tapo-bhirugraiH
 evaMrUpaH shakya ahaM nRRiloke
-draShTuM tvadanyena kurupravIra
+draShTuM tvadanyena kuru-pravIra
 
 mA te vyathA mA cha vimUDha-bhAvaH
 dRRiShTvA rUpaM ghoramIdRRi~N-mamedam
@@ -258,7 +258,7 @@ tadeva me rUpamidaM prapashya
 sa~njaya uvAcha
 ityarjunaM vAsudevas-tathoktvA
 svakaM rUpaM darshayA-mAsa bhUyaH
-AshvAsayA-mAsa cha bhIta-menaM
+AshvA-sayA-mAsa cha bhIta-menaM
 bhUtvA punaH saumya-vapur-mahAtmA
 
 arjuna uvAcha

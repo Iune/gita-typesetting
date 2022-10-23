@@ -30,10 +30,10 @@ janmAni tava chArjuna
 tAnyahaM veda sarvANi
 na tvaM vettha parantapa
 
-ajo.api sann-avyayAtmA
+ajo.api san-navya-yAtmA
 bhUtAnA-mIshvaro.api san
 prakRRitiM svAma-dhiShThAya
-sambhavA-myAt-mamAyayA
+sambhavA-myAt-mamA-yayA
 
 yadA yadA hi dharmasya
 glAnir-bhavati bhArata
@@ -156,7 +156,7 @@ sarve.apyete yaj~na-vidaH
 yaj~na-kShapita-kalmaShAH
 
 yaj~na-shiShTAmRRita-bhujaH
-yAnti brahma sanAtanam
+yAnti·brahma sanAtanam
 nAyaM loko.astya-yaj~nasya
 kuto.anyaH kurusattama
 

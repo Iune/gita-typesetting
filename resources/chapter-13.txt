@@ -21,13 +21,13 @@ yattaj-j~nAnaM mataM mama
 
 tatkShetraM yachcha yAdRRikcha
 yadvikAri yatashcha yat
-sa cha yo yatprabhAvashcha
+sa cha yo yat-prabhAvashcha
 tatsamAsena me shRRiNu
 
 RRiShibhir-bahudhA gItaM
 Chandobhir-vividhaiH pRRithak
-brahmasUtra-padaishchaiva
-hetumadbhir-vinishchitaiH
+brahma-sUtra-padaishchaiva
+hetu-madbhir-vinishchitaiH
 
 mahA-bhUtAnya-ha~NkAraH
 buddhir-avyakta-meva cha
@@ -57,7 +57,7 @@ iShTAniShTo-papattiShu
 mayi chAnanya-yogena
 bhaktir-avya-bhichAriNI
 vivikta-desha-sevitvam
-aratir-janasaMsadi
+aratir-jana-saMsadi
 
 adhyAtma-j~nAna-nitya-tvaM
 tattva-j~nAnArtha-darshanam
@@ -125,7 +125,7 @@ sarvathA vartamAno.api
 na sa bhUyo.abhijAyate
 
 dhyAne-nAtmani pashyanti
-kechidAtmAna-mAtmanA
+kechid-AtmAna-mAtmanA
 anye sA~Nkhyena yogena
 karma-yogena chApare
 

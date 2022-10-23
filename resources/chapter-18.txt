@@ -6,7 +6,7 @@ arjuna uvAcha
 sannyAsasya mahAbAho
 tattva-michChAmi veditum
 tyAgasya cha hRRiShikesha
-pRRithak-keshiniShUdana
+pRRithak-keshini-ShUdana
 
 shrI bhagavanuvAcha
 kAmyAnAM karmaNAM nyAsaM
@@ -17,10 +17,10 @@ prAhus-tyAgaM vichakShaNAH
 tyAjyaM doSha-vadityeke
 karma·prAhur-manIShiNaH
 yaj~na-dAna-tapaH karma
-na·tyAjyamiti chApare
+na·tyAjya-miti chApare
 
 nishchayaM shRRiNu me tatra
-tyAge bharatasattama
+tyAge bharata-sattama
 tyAgo hi puruSha-vyAghra
 trividhaH samprakIrtitaH
 
@@ -32,7 +32,7 @@ pAvanAni manIShiNAm
 etAnyapi tu karmANi
 sa~NgaM tyaktvA phalAni cha
 karta-vyAnIti me pArtha
-nishchitaM matamuttamam
+nishchitaM mata-muttamam
 
 niyatasya tu sannyAsaH
 karmaNo nopa-padyate
@@ -44,7 +44,7 @@ kAya-klesha-bhayAttyajet
 sa kRRitvA rAjasaM tyAgaM
 naiva·tyAga-phalaM labhet
 
-kAryamityeva yatkarma
+kArya-mityeva yatkarma
 niyataM kriyate.arjuna
 sa~NgaM tyaktvA phalaM chaiva
 sa tyAgaH sAttviko mataH
@@ -75,7 +75,7 @@ vividhAshcha pRRithak-cheShTAH
 daivaM chaivAtra pa~nchamam
 
 sharIravA~N-manobhiryat
-karma·prArabhate naraH
+karma·prAra-bhate naraH
 nyAyyaM vA viparItaM vA
 pa~nchaite tasya hetavaH
 
@@ -89,9 +89,8 @@ buddhir-yasya na lipyate
 hatvA.api sa imAllokAn
 na hanti na nibadhyate
 
-# Begin section to validate
 j~nAnaM j~neyaM parij~nAtA
-trividhA karmachodanA
+trividhA karma-chodanA
 karaNaM karma karteti
 trividhaH karma-sa~NgrahaH
 
@@ -100,7 +99,7 @@ tridhaiva guNa-bhedataH
 prochyate guNa-sa~NkhyAne
 yathA-vachChRRiNu tAnyapi
 
-sarvabhUteShu yenaikaM
+sarva-bhUteShu yenaikaM
 bhAva-mavyaya-mIkShate
 avibhaktaM vibhakteShu
 taj-j~nAnaM viddhi sAttvikam
@@ -112,44 +111,43 @@ taj-j~nAnaM viddhi rAjasam
 
 yattu kRRitsna-vadekasmin
 kArye sakta-mahaitukam
-# take another look at this line
-atattvArthavadalpaM cha
+atattvArtha-vadalpaM cha
 tattAma-samudAhRRitam
 
 niyataM sa~Ngarahitam
-arAgadveShataH kRRitam
-aphalaprepsunA karma
-yattatsAttvikamuchyate
+arAga-dveShataH kRRitam
+aphala-prepsunA karma
+yattat-sAttvika-muchyate
 
 yattu kAmepsunA karma
 sAha~NkAreNa vA punaH
 kriyate bahulAyAsaM
-tadrAjasamudAhRRitam
+tadrAja-samudAhRRitam
 
 anubandhaM kShayaM hiMsAm
 anapekShya cha pauruSham
-mohAdArabhyate karma
-yattattAmasamuchyate
+mohAdA-rabhyate karma
+yattattAma-samuchyate
 
-muktasa~Ngo.anahaMvAdI
-dhRRityutsAhasamanvitaH
-siddhyasiddhyornirvikAraH
+mukta-sa~Ngo.ana-haMvAdI
+dhRRityut-sAhasa-manvitaH
+siddhya-siddhyor-nirvikAraH
 kartA sAttvika uchyate
 
-rAgI karmaphalaprepsuH
-lubdho hiMsAtmako.ashuchiH
-harShashokAnvitaH kartA
+rAgI karma-phala-prepsuH
+lubdho hiMsAt-mako.ashuchiH
+harSha-shokAn-vitaH kartA
 rAjasaH parikIrtitaH
 
 ayuktaH prAkRRitaH stabdhaH
-shaTho naiShkRRitiko.alasaH
-viShAdI dIrghasUtrI cha
+shaTho naiShkRRiti-ko.alasaH
+viShAdI dIrgha-sUtrI cha
 kartA tAmasa uchyate
 
-buddherbhedaM dhRRiteshchaiva
-guNatastrividhaM shRRiNu
-prochyamAnamasheSheNa
-pRRithaktvena dhana~njaya
+buddher-bhedaM dhRRiteshchaiva
+guNata-strividhaM shRRiNu
+prochya-mAna-masheSheNa
+pRRithak-tvena dhana~njaya
 
 pravRRittiM cha nivRRittiM cha
 kAryAkArye bhayAbhaye
@@ -163,12 +161,12 @@ buddhiH sA pArtha rAjasI
 
 adharmaM dharmamiti yA
 manyate tamasA.a.avRRitA
-sarvArthAnviparItAMshcha
+sarvArthAn-viparItAMshcha
 buddhiH sA pArtha tAmasI
 
 dhRRityA yayA dhArayate
 manaH prANendriya-kriyAH
-yogenAvyabhichAriNyA
+yogenAvya-bhichAriNyA
 dhRRitiH sA pArtha sAttvikI
 
 yayA tu dharma-kAmArthAn
@@ -186,13 +184,12 @@ shRRiNu me bharatarShabha
 abhyAsA-dramate yatra
 duHkhAntaM cha nigachChati
 
-# End section to validate
 yattadagre viShamiva
 pariNAme.amRRitopamam
 tatsukhaM sAttvikaM proktam
 Atma-buddhi-prasAdajam
 
-viShayendriyasaMyogAt
+viShayendriya-saMyogAt
 yattadagre.amRRitopamam
 pariNAme viShamiva
 tatsukhaM rAjasaM smRRitam
@@ -205,7 +202,7 @@ tattAma-samudAhRRitam
 na tadasti pRRithivyAM vA
 divi deveShu vA punaH
 sattvaM prakRRiti-jairmuktaM
-yadebhiH syAttri-bhir-guNaiH
+yadebhiH syAt-tribhir-guNaiH
 
 brAhmaNa-kShatriya-vishAM
 shUdrANAM cha parantapa
@@ -224,10 +221,10 @@ kShAtraM karma·svabhAvajam
 
 kRRiShi-gaura-kShyavANijyaM
 vaishyakarma·svabhAvajam
-paricharyAtmakaM karma
+paricharyAt-makaM karma
 shUdrasyApi·svabhAvajam
 
-sve sve karmaNyabhirataH
+sve sve karmaNya-bhirataH
 saMsiddhiM labhate naraH
 svakarma-nirataH siddhiM
 yathA vindati tachChRRiNu
@@ -247,7 +244,7 @@ sadoShamapi na tyajet
 sarvA-rambhA hi doSheNa
 dhUmenAgniri-vAvRRitAH
 
-asaktabuddhiH sarvatra
+asakta-buddhiH sarvatra
 jitAtmA vigata-spRRihaH
 naiShkarmya-siddhiM paramAM
 sannyAsenAdhi-gachChati
@@ -260,15 +257,15 @@ niShThA j~nAnasya yA parA
 buddhyA vishuddhayA yuktaH
 dhRRityA.a.atmAnaM niyamya cha
 shabdAdIn-viShayAM-styaktvA
-rAga-dveShau·vyudasya cha
+rAga-dveShau vyudasya cha
 
-viviktasevI laghvAshI
-yatavAkkAyamAnasaH
-dhyAnayogaparo nityaM
+vivikta-sevI laghvAshI
+yata-vAkkAya-mAnasaH
+dhyAna-yoga-paro nityaM
 vairAgyaM samupAshritaH
 
 aha~NkAraM balaM darpaM
-kAmaM krodhaM parigraham
+kAmaM krodhaM pari-graham
 vimuchya nirmamaH shAntaH
 brahma-bhUyAya kalpate
 
@@ -277,10 +274,10 @@ na shochati na kA~NkShati
 samaH sarveShu bhUteShu
 madbhaktiM labhate parAm
 
-bhaktyA mAma-bhijAnAti
+bhaktyA mAma-bhi-jAnAti
 yAvAnyashchAsmi tattvataH
 tato mAM tattvato j~nAtvA
-vishate tadanantaram
+vishate tada-nantaram
 
 sarva-karmANyapi sadA
 kurvANo madvya-pAshrayaH
@@ -292,8 +289,8 @@ mayi sannyasya matparaH
 buddhi-yogamu-pAshritya
 machchittaH satataM bhava
 
-machchittaH sarvadurgANi
-matprasAdAttariShyasi
+machchittaH sarva-durgANi
+matprasAdAt-tariShyasi
 atha chettva-maha~NkArAt
 na shroShyasi vina~NkShyasi
 
@@ -305,7 +302,7 @@ prakRRitistvAM niyokShyati
 svabhAva-jena kaunteya
 nibaddhaH svena karmaNA
 kartuM nechChasi yanmohAt
-kariShyas-yavasho.api tat
+kariShya-syavasho.api tat
 
 IshvaraH sarva-bhUtAnAM
 hRRidde-she.arjuna tiShThati
@@ -343,22 +340,22 @@ na chAshush-rUShave vAchyaM
 na cha mAM yo.abhya-sUyati
 
 ya imaM paramaM guhyaM
-madbhakteShva-bhidhAsyati
+madbhak-teShva-bhidhAsyati
 bhaktiM mayi parAM kRRitvA
 mAmevaiShyatya-saMshayaH
 
 na cha tasmAn-manuShyeShu
-kashchinme priyakRRittamaH
+kashchinme priya-kRRittamaH
 bhavitA na cha me tasmAt
-anyaH priyataro bhuvi
+anyaH priya-taro bhuvi
 
 adhyeShyate cha ya imaM
 dharmyaM saMvAda-mAvayoH
 j~nAna-yaj~nena tenAham
 iShTaH syAmiti me matiH
 
-shraddhAvAnana-sUyashcha
-shRRiNuyAdapi yo naraH
+shraddhAvA-nana-sUyashcha
+shRRiNu-yAdapi yo naraH
 so.api muktaH shubhAllokAn
 prApnuyAt-puNya-karmaNAm
 
@@ -376,25 +373,25 @@ kariShye vachanaM tava
 sa~njaya uvAcha
 ityahaM vAsudevasya
 pArthasya cha mahAtmanaH
-saMvAdamimamashrauSham
-adbhutaM romaharShaNam
+saMvAda-mima-mashrauSham
+adbhutaM roma-harShaNam
 
-vyAsaprasAdAchChrutavAn
-imaM guhyatamaM param
-yogaM yogeshvarAtkRRiShNAt
-sAkShAtkathayataH svayam
+vyAsa-prasAdAchChru-tavAn
+imaM guhya-tamaM param
+yogaM yogeshvarAt-kRRiShNAt
+sAkShAt-kathayataH svayam
 
 rAjan saMsmRRitya saMsmRRitya
-saMvAdamimamadbhutam
-keshavArjunayoH puNyaM
-hRRiShyAmi cha muhurmuhuH
+saMvAda-mima-madbhutam
+keshavArjuna-yoH puNyaM
+hRRiShyAmi cha muhur-muhuH
 
 tachcha saMsmRRitya saMsmRRitya
-rUpamatyadbhutaM hareH
-vismayo me mahAnrAjan
+rUpa-matyad-bhutaM hareH
+vismayo me mahAn-rAjan
 hRRiShyAmi cha punaH punaH
 
 yatra yogeshvaraH kRRiShNaH
-yatra pArtho dhanurdharaH
+yatra pArtho dhanur-dharaH
 tatra shrIrvijayo bhUtiH
-dhruvA nItirmatirmama
+dhruvA nItir-matirmama
