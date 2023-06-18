@@ -25,7 +25,7 @@ tyAgo hi puruSha-vyAghra
 trividhaH samprakIrtitaH
 
 yaj~na-dAna-tapaH-karma
-na tyAjyaM kAryameva tat
+na·tyAjyaM kAryameva tat
 yaj~no dAnaM tapashchaiva
 pAvanAni manIShiNAm
 
@@ -47,7 +47,7 @@ naiva·tyAga-phalaM labhet
 kArya-mityeva yatkarma
 niyataM kriyate.arjuna
 sa~NgaM tyaktvA phalaM chaiva
-sa tyAgaH sAttviko mataH
+sa·tyAgaH sAttviko mataH
 
 na dveShTya-kushalaM karma
 kushale nAnuShajjate
@@ -240,7 +240,7 @@ svabhAva-niyataM karma
 kurvannApnoti kilbiSham
 
 sahajaM karma kaunteya
-sadoShamapi na tyajet
+sadoShamapi na·tyajet
 sarvA-rambhA hi doSheNa
 dhUmenAgniri-vAvRRitAH
 
@@ -292,7 +292,7 @@ machchittaH satataM bhava
 machchittaH sarva-durgANi
 matprasAdAt-tariShyasi
 atha chettva-maha~NkArAt
-na shroShyasi vina~NkShyasi
+na·shroShyasi vina~NkShyasi
 
 yadaha~NkAra-mAshritya
 na yotsya iti manyase
@@ -342,7 +342,7 @@ na cha mAM yo.abhya-sUyati
 ya imaM paramaM guhyaM
 madbhak-teShva-bhidhAsyati
 bhaktiM mayi parAM kRRitvA
-mAmevaiShyatya-saMshayaH
+mAmevaiShya-tya-saMshayaH
 
 na cha tasmAn-manuShyeShu
 kashchinme priya-kRRittamaH

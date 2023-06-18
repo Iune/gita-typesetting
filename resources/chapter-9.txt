@@ -4,7 +4,7 @@ rAjavidyA-rAjaguhya-yogaH
 
 shrI bhagavAnuvAcha
 idaM tu te guhyatamam
-pravakShyA-myanasUyave
+pravakShyAmya-nasUyave
 j~nAnaM vij~nAna-sahitaM
 yaj-j~nAtvA mokShyase.ashubhAt
 
@@ -28,14 +28,14 @@ pashya me yogamaishvaram
 bhUta-bhRRinna cha bhUtasthaH
 mamAtmA bhUta-bhAvanaH
 
-yathA.a.akAshasthito nityaM
+yathA.a.akAsha-sthito nityaM
 vAyuH sarva-trago mahAn
 tathA sarvANi bhUtAni
 matsthAnItyu-padhAraya
 
 sarva-bhUtAni kaunteya
 prakRRitiM yAni mAmikAm
-kalpakShaye punastAni
+kalpa-kShaye punastAni
 kalpAdau visRRijAmyaham
 
 prakRRitiM svAma-vaShTabhya
@@ -54,7 +54,7 @@ hetunA.anena kaunteya
 jagadvipari-vartate
 
 avajAnanti mAM mUDhAH
-mAnuShIM tanumAshritam
+mAnuShIM tanu-mAshritam
 paraM bhAva-majAnantaH
 mama bhUta-maheshvaram
 
@@ -63,7 +63,7 @@ mogha-j~nAnA vichetasaH
 rAkShasI-mAsurIM chaiva
 prakRRitiM mohinIM shritAH
 
-mahAtmAnastu mAM pArtha
+mahAtmA-nastu mAM pArtha
 daivIM prakRRiti-mAshritAH
 bhajantya-nanya-manasaH
 j~nAtvA bhUtAdi-mavyayam
@@ -93,7 +93,7 @@ nivAsaH sharaNaM suhRRit
 prabhavaH pralayaH sthAnaM
 nidhAnaM bIja-mavyayam
 
-tapAmyaham-ahaM varShaM
+tapAmya-ham-ahaM varShaM
 nigRRihNAmyut-sRRijAmi cha
 amRRitaM chaiva mRRityushcha
 sadasachchAha-marjuna
@@ -131,7 +131,7 @@ yAnti madyAjino.api mAm
 patraM puShpaM phalaM toyaM
 yo me bhaktyA prayachChati
 tadahaM bhaktyu-pahRRitaM
-ashnAmi prayatAt-manaH
+ashnAmi·praya-tAt-manaH
 
 yatkaroShi yadashnAsi
 yajjuhoShi dadAsi yat
@@ -164,8 +164,8 @@ striyo vaishyA-stathA shUdrAH
 te.api yAnti parAM gatim
 
 kiM punar-brAhmaNAH puNyAH
-bhaktA rAjarShayastathA
-anityamasukhaM lokam
+bhaktA rAjarShaya-stathA
+anitya-masukhaM lokam
 imaM prApya bhajasva mAm
 
 manmanA bhava madbhaktaH

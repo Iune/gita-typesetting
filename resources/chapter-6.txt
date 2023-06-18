@@ -10,7 +10,7 @@ na niragnirna chAkriyaH
 
 yaM sannyA-samiti·prAhuH
 yogaM taM viddhi pANDava
-na hya-sannyasta-sa~NkalpaH
+na·hya-sannyasta-sa~NkalpaH
 yogI bhavati kashchana
 
 Aru-rukShor-muneryogaM
@@ -25,7 +25,7 @@ yogA-rUDhasta-dochyate
 
 uddhare-dAtmanA.a.atmAnaM
 nAtmAnama-vasAdayet
-Atmaiva hyAtmano bandhuH
+Atmaiva·hyAtmano bandhuH
 Atmaiva ripurAtmanaH
 
 bandhurAtmA.a.at-manastasya
@@ -49,7 +49,7 @@ sAdhuShvapi cha pApeShu
 samabuddhir-vishiShyate
 
 yogI yu~njIta satatam
-AtmAnaM rahasi sthitaH
+AtmAnaM rahasi·sthitaH
 ekAkI yatachittAtmA
 nirAshIra-parigrahaH
 
@@ -199,7 +199,7 @@ vimUDho brahmaNaH pathi
 etanme saMshayaM kRRiShNa
 Chettu-marhasya-sheShataH
 tvadanyaH saMsha-yasyAsya
-ChettA na hyupa-padyate
+ChettA na·hyupa-padyate
 
 shrI bhagavAnuvAcha
 pArtha naiveha nAmutra
