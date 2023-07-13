@@ -1,0 +1,222 @@
+[[sloka]]
+should_number = false
+add_punctuation = false
+lines = """
+shrI paramAtmane namaH
+atha pa~nchamo.adhyAyaH
+karma-sannyAsa-yogaH"""
+
+[[sloka]]
+lines = """
+arjuna uvAcha
+sannyAsaM karmaNAM kRRiShNa
+punaryogaM cha shaMsasi
+yachChreya etayorekaM
+tanme brUhi sunishchitam"""
+
+[[sloka]]
+lines = """
+shrI bhagavAnuvAcha
+sannyAsaH karmayogashcha
+nishshreyasa-karA-vubhau
+tayostu karma-sannyAsAt
+karmayogo vishiShyate"""
+
+[[sloka]]
+lines = """
+j~neyaH sa nitya-sannyAsI
+yo na·dveShTi na kA~NkShati
+nirdvandvo hi mahAbAho
+sukhaM bandhAt-pramuchyate"""
+
+[[sloka]]
+lines = """
+sA~Nkhyayogau pRRithag-bAlAH
+pravadanti na paNDitAH
+eka-mapyA-sthitaH samyak
+ubhayor-vindate phalam"""
+
+[[sloka]]
+lines = """
+yat-sA~NkhyaiH prApyate sthAnaM
+tadyogairapi gamyate
+ekaM sA~NkhyaM cha yogaM cha
+yaH pashyati sa pashyati"""
+
+[[sloka]]
+lines = """
+sannyAsastu mahAbAho
+duHkha-mAptuma-yogataH
+yogayukto munir-brahma
+nachire-NAdhi-gachChati"""
+
+[[sloka]]
+lines = """
+yogayukto vishuddhAtmA
+vijitAtmA jitendriyaH
+sarva-bhUtAtma-bhUtAtmA
+kurvannapi na lipyate"""
+
+[[sloka]]
+lines = """
+naiva ki~nchit-karomIti
+yukto manyeta tattvavit
+pashyan-shRRiNvan spRRisha~n-jighran
+ashnan-gachChan-svapan-shvasan"""
+
+[[sloka]]
+lines = """
+pralapan visRRijan gRRihNan
+unmiShan-nimiShannapi
+indriyANIndriyArtheShu
+vartanta iti dhArayan"""
+
+[[sloka]]
+lines = """
+brahmaNyAdhAya karmANi
+sa~NgaM tyaktvA karoti yaH
+lipyate na sa pApena
+padmapatra-mivAmbhasA"""
+
+[[sloka]]
+lines = """
+kAyena manasA buddhyA
+kevalair-indriyairapi
+yoginaH karma kurvanti
+sa~NgaM tyaktvAt-mashuddhaye"""
+
+[[sloka]]
+lines = """
+yuktaH karma-phalaM tyaktvA
+shAntimApnoti naiShThikIm
+ayuktaH kAmakAreNa
+phale sakto nibadhyate"""
+
+[[sloka]]
+lines = """
+sarva-karmANi manasA
+sannyasyAste sukhaM vashI
+navadvAre pure dehI
+naiva kurvanna kArayan"""
+
+[[sloka]]
+lines = """
+na kartRRitvaM na karmANi
+lokasya sRRijati·prabhuH
+na karma-phala-saMyogaM
+svabhAvastu·pravartate"""
+
+[[sloka]]
+lines = """
+nAdatte kasyachit-pApaM
+na chaiva sukRRitaM vibhuH
+aj~nA-nenAvRRitaM j~nAnaM
+tena muhyanti jantavaH"""
+
+[[sloka]]
+lines = """
+j~nAnena tu tada-j~nAnaM
+yeShAM nAshita-mAtmanaH
+teShAm-Adityavaj-j~nAnaM
+prakAshayati tatparam"""
+
+[[sloka]]
+lines = """
+tadbuddhayas-tadAtmAnaH
+tanniShThA-statparAyaNAH
+gachChantyapuna-rAvRRittiM
+j~nAna-nirdhUta-kalmaShAH"""
+
+[[sloka]]
+lines = """
+vidyA-vinaya-sampanne
+brAhmaNe gavi hastini
+shuni chaiva shvapAke cha
+paNDitAH samadarshinaH"""
+
+[[sloka]]
+lines = """
+ihaiva tairjitaH sargaH
+yeShAM sAmye sthitaM manaH
+nirdoShaM hi samaM brahma
+tasmAt brahmaNi te sthitAH"""
+
+[[sloka]]
+lines = """
+na·pra-hRRiShyet-priyaM prApya
+nod-vijet-prApya chApriyam
+sthira-buddhira-sammUDhaH
+brahmavit brahmaNi·sthitaH"""
+
+[[sloka]]
+lines = """
+bAhyas-parshe-ShvasaktAtmA
+vindatyAtmani yat sukham
+sa brahma-yoga-yuktAtmA
+sukha-makShaya-mashnute"""
+
+[[sloka]]
+lines = """
+ye hi saM-sparshajA bhogAH
+duHkha-yonaya eva te
+Ad-yantavantaH kaunteya
+na teShu ramate budhaH"""
+
+[[sloka]]
+lines = """
+shaknotI-haiva yaH soDhuM
+prAk sharIra-vimokShaNAt
+kAma-krodhod-bhavaM vegaM
+sa yuktaH sa sukhI naraH"""
+
+[[sloka]]
+lines = """
+yo.antaH-sukho.antarA-rAmaH
+tathAn-tarjyotireva yaH
+sa yogI brahma-nirvANaM
+brahma-bhUto.adhi-gachChati"""
+
+[[sloka]]
+lines = """
+labhante brahma-nirvANam
+RRiShayaH·kShINa-kalmaShAH
+Chinna-dvaidhA yatAtmAnaH
+sarva-bhUtahite ratAH"""
+
+[[sloka]]
+lines = """
+kAma-krodha-viyuktAnAM
+yatInAM yatachetasAm
+abhito brahma-nirvANaM
+vartate viditAtmanAm"""
+
+[[sloka]]
+lines = """
+sparshAn kRRitvA bahir-bAhyAn
+chakShush-chaivAntare bhruvoH
+prANApAnau samau kRRitvA
+nAsAbhyan-tarachAriNau"""
+
+[[sloka]]
+lines = """
+yatendriya-manobuddhiH
+munir-mokSha-parAyaNaH
+vigatechChA-bhaya-krodhaH
+yaH sadA mukta eva saH"""
+
+[[sloka]]
+lines = """
+bhoktAraM yaj~na-tapasAM
+sarva-loka-maheshvaram
+suhRRidaM sarva-bhUtAnAM
+j~nAtvA mAM shAnti-mRRichChati|"""
+
+[[sloka]]
+should_number = false
+add_punctuation = false
+lines = """
+shrImad-bhagavad-gItAsu upaniShatsu
+brahma-vidyAyAM yogashAstre
+shrIkRRiShNArjuna saMvAde
+karma-sannyAsa-yogonAma
+pa~nchamo-dhyAyaH"""

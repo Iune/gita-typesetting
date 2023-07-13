@@ -1,0 +1,37 @@
+# [[sloka]]
+# lines = """
+# shrImad-bhagavadgItAsu upaniShatsu
+# brahma-vidyAyAM yogashAstre shrIkRRiShNArjuna saMvAde
+# (bhakti-yogonAma dvAdasho-dhyAyaH)"""
+
+[[sloka]]
+should_number = false
+lines = """
+sarvadharmAn-parityajya
+mAmekaM sharaNaM vraja
+aham tvA sarvapApebhyaH
+mokShayiShyAmi mA shuchaH"""
+
+[[sloka]]
+should_number = false
+lines = """
+yataH pravRRittir-bhUtAnAM
+yena sarva-midaM tatam
+sva-karmaNA tam-abhyarchya
+siddhiM viMdati mAnavaH"""
+
+[[sloka]]
+should_number = false
+lines = """
+yatra yogeshvaraH kRRiShNaH
+yatra pArtho dhanur-dharaH
+tatra shrIr-vijayo bhUtiH
+dhruvA nItir-matir-mama"""
+
+[[sloka]]
+should_number = false
+lines = """
+shrI kRRiShNashsharaNaM mama
+shrI kRRiShNashsharaNaM mama
+shrI kRRiShNashsharaNaM mama"""
+

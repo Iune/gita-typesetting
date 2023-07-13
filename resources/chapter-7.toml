@@ -1,0 +1,228 @@
+[[sloka]]
+should_number = false
+add_punctuation = false
+lines = """
+shrI paramAtmane namaH
+atha saptamo.adhyAyaH
+j~nAna-vij~nAna-yogaH"""
+
+[[sloka]]
+lines = """
+shrI bhagavAnuvAcha
+mayyA-saktamanAH pArtha
+yogaM yu~njanma-dAshrayaH
+asaMshayaM samagraM mAM
+yathA j~nAsyasi tachChRRiNu"""
+
+[[sloka]]
+lines = """
+j~nAnaM te.ahaM savij~nAnam
+idaM vakShyAmya-sheShataH
+yaj-j~nAtvA neha bhUyo.anyat
+j~nAtavya-mavashiShyate"""
+
+[[sloka]]
+lines = """
+manuShyANAM sahasreShu
+kashchidyatati siddhaye
+yatatAmapi siddhAnAM
+kaschinmAM vetti tattvatah"""
+
+[[sloka]]
+lines = """
+bhUmirApo.analo vAyuH
+khaM mano buddhireva cha
+aha~NkAra itIyaM me
+bhinnA prakRRiti-raShTadhA"""
+
+[[sloka]]
+lines = """
+apareya-mitastvanyAM
+prakRRitiM viddhi me parAm
+jIvabhUtAM mahAbAho
+yayedaM dhAryate jagat"""
+
+[[sloka]]
+lines = """
+etad-yonIni bhUtAni
+sarvANItyu-padhAraya
+ahaM kRRitsnasya jagataH
+prabhavaH pralayastathA"""
+
+[[sloka]]
+lines = """
+mattaH parataraM nAnyat
+ki~nchidasti dhana~njaya
+mayi sarva-midaM protaM
+sUtre maNigaNA iva"""
+
+[[sloka]]
+lines = """
+raso.ahamapsu kaunteya
+prabhA.asmi shashi-sUryayoH
+praNavaH sarva-vedeShu
+shabdaH khe pauruShaM nRRiShu"""
+
+[[sloka]]
+lines = """
+puNyo gandhaH pRRithivyAM cha
+tejashchAsmi vibhAvasau
+jIvanaM sarvabhuteShu
+tapashchAsmi tapasviShu"""
+
+[[sloka]]
+lines = """
+bIjaM mAM sarva-bhUtAnAM
+viddhi pArtha sanAtanam
+buddhir-buddhi-matAmasmi
+tejastejasvi-nAmaham"""
+
+[[sloka]]
+lines = """
+balaM balavatAM chAhaM
+kAma-rAga-vivarjitam
+dharmA-viruddho bhUteShu
+kAmo.asmi bhara-tarShabha"""
+
+[[sloka]]
+lines = """
+ye chaiva sAttvikA bhAvAH
+rAja-sAstA-masAshcha ye
+matta eveti tAnviddhi
+na tvahaM teShu te mayi"""
+
+[[sloka]]
+lines = """
+tribhir-guNa-mayair-bhAvaiH
+ebhiH sarvamidaM jagat
+mohitaM nAbhijAnAti
+mAmebhyaH paramavyayam"""
+
+[[sloka]]
+lines = """
+daivI hyeShA gunAmayI
+mama mAya duratyayA
+mAmeva ye prapadyante
+mAyAmetAM taranti te"""
+
+[[sloka]]
+lines = """
+na mAM duShkRRitino mUDhAH
+prapadyante narAdhamAH
+mAyayA.apahRRita-j~nAnAH
+AsuraM bhAvamAshritAH"""
+
+[[sloka]]
+lines = """
+chaturvidhA bhajante mAM
+janAH sukRRitino.arjuna
+Arto jij~nA-surarthArthI
+j~nAnI cha bhara-tarShabha"""
+
+[[sloka]]
+lines = """
+teShAM j~nAnI nityayuktaH
+ekabhaktir-vishiShyate
+priyo hi·j~nAnino.atyartham
+ahaM sa cha mama·priyaH"""
+
+[[sloka]]
+lines = """
+udArAH sarva evaite
+j~nAnI tvAtmaiva me matam
+AsthitaH sa hi yuktAtmA
+mAmevA-nuttamAM gatim"""
+
+[[sloka]]
+lines = """
+bahUnAM janma-nAmante
+j~nAnavAn-mAM prapadyate
+vAsudevaH sarvamiti
+sa mahAtmA sudurlabhaH"""
+
+[[sloka]]
+lines = """
+kAmaistai-stair-hRRita-j~nAnAH
+prapadyante.anyadevatAH
+taM taM niyama-mAsthAya
+prakRRityA niyatAH svayA"""
+
+[[sloka]]
+lines = """
+yo yo yAM yAM tanuM bhaktaH
+shraddhayArchitu-michChati
+tasya tasyAchalAM shraddhAM
+tAmeva vida-dhAmyaham"""
+
+[[sloka]]
+lines = """
+sa tayA shraddhayA yuktaH
+tasyA-rAdhana-mIhate
+labhate cha tataH kAmAn
+mayaiva vihitAnhi tAn"""
+
+[[sloka]]
+lines = """
+antavattu phalaM teShAM
+tadbhava-tyalpa-medhasAM
+devAn-devayajo yAnti
+madbhaktA yAnti mAmapi"""
+
+[[sloka]]
+lines = """
+avyaktaM vyakti-mApannaM
+manyante mAma-buddhayaH
+paraM bhAva-majAnantaH
+mamAvya-yama-nuttaman"""
+
+[[sloka]]
+lines = """
+nAhaM prakAshaH sarvasya
+yoga-mAyA-samAvRRitaH
+mUDho.ayaM nAbhi-jAnAti
+loko mAmaja-mavyayam"""
+
+[[sloka]]
+lines = """
+vedAhaM samatItAni
+varta-mAnAni chArjuna
+bhaviShyANi cha bhUtAni
+mAM tu veda na kashchana"""
+
+[[sloka]]
+lines = """
+ichChAdveSha-samutthena
+dvandva-mohena bhArata
+sarva-bhUtAni sammohaM
+sarge yAnti parantapa"""
+
+[[sloka]]
+lines = """
+yeShAM tvanta-gataM pApam
+janAnAM puNya-karmaNAm
+te dvandva-moha-nirmuktAH
+bhajante mAM dRRiDha-vratAH"""
+
+[[sloka]]
+lines = """
+jarA-maraNa-mokShAya
+mAmA-shritya yatanti ye
+te brahma tadviduH kRRitsnam
+adhyAtmaM karma chAkhilam"""
+
+[[sloka]]
+lines = """
+sAdhi-bhUtAdhi-daivaM mAM
+sAdhi-yaj~naM che ye viduH
+prayANa-kAle.api cha mAM
+te vidur-yukta-chetasaH"""
+
+[[sloka]]
+should_number = false
+add_punctuation = false
+lines = """
+shrImad-bhagavad-gItAsu upaniShatsu
+brahma-vidyAyAM yogashAstre
+shrIkRRiShNArjuna saMvAde
+j~nAna-vij~nAna-yogonAma
+saptamo-dhyAyaH"""

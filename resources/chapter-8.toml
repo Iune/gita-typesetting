@@ -1,0 +1,215 @@
+[[sloka]]
+should_number = false
+add_punctuation = false
+lines = """
+shrI paramAtmane namaH
+atha aShTamo.adhyAyaH
+akShara-parabrahma-yogaH"""
+
+[[sloka]]
+lines = """
+arjuna uvAcha
+kiM tadbrahma kimadhyAtmaM
+kiM karma puruShottama
+adhi-bhUtaM cha kiM proktam
+adhi-daivaM kimuchyate"""
+
+[[sloka]]
+lines = """
+adhi-yaj~naH kathaM ko.atra
+dehe.asmin-madhusUdana
+prayANa-kAle cha kathaM
+j~neyo.asi niyatAtma-bhiH"""
+
+[[sloka]]
+lines = """
+shrI bhagavAnuvAcha
+akSharam brahma paramaM
+svabhAvo.adhyAtma-muchyate
+bhUta-bhAvod-bhavakaraH
+visargaH karma-sa~nj~nitaH"""
+
+[[sloka]]
+lines = """
+adhi-bhUtaM kSharo bhAvaH
+puruShashchAdhi-daivatam
+adhi-yaj~no.ahamevAtra
+dehe dehabhRRitAM vara"""
+
+[[sloka]]
+lines = """
+antakAle cha mAmeva
+smaran-muktvA kalevaram
+yaH prayAti sa madbhAvaM
+yAti nAstyatra saMshayaH"""
+
+[[sloka]]
+lines = """
+yaM yaM vApi smaran-bhAvaM
+tyaja-tyante kalevaram
+taM tamevaiti kaunteya
+sadA tad-bhAva-bhAvitaH"""
+
+[[sloka]]
+lines = """
+tasmAt-sarveShu kAleShu
+mAmanusmara yudhya cha
+mayyar-pita-manobuddhiH
+mAme-vaiShyasya-saMshayam"""
+
+[[sloka]]
+lines = """
+abhyAsa-yogayuktena
+chetasA nAnya-gAminA
+paramaM puruShaM divyaM
+yAti pArthA-nuchintayan"""
+
+[[sloka]]
+lines = """
+kaviM purANa-manushAsitAram
+aNoraNIyAM-samanu-smaredyaH
+sarvasya dhAtAra-machintyarUpam
+Aditya-varNaM tamasaH parastAt"""
+
+[[sloka]]
+lines = """
+prayANakAle manasA.achalena
+bhaktyA yukto yogabalena chaiva
+bhruvor-madhye prANa-mAveshya samyak
+sa taM paraM puruShamupaiti divyaM"""
+
+[[sloka]]
+lines = """
+yadakSharaM vedavido vadanti
+vishanti yadyatayo vItarAgAH
+yadichChanto brahma-charyaM charanti
+tatte padaM sa~NgraheNa·pravakShye"""
+
+[[sloka]]
+lines = """
+sarva-dvArANi saMyamya
+mano hRRidi nirudhya cha
+mUrdhnyA-dhAyAt-manaH prANam
+Asthito yoga-dhAraNAM"""
+
+[[sloka]]
+lines = """
+omityekA-kSharaM brahma
+vyAharan-mAma-nusmaran
+yaH prayAti tyajan-dehaM
+sa yAti paramAM gatim"""
+
+[[sloka]]
+lines = """
+ananyachetAH satataM
+yo mAM smarati nityashaH
+tasyAhaM sulabhaH pArtha
+nityayuktasya yoginaH"""
+
+[[sloka]]
+lines = """
+mAmupetya punarjanma
+duHkhAlaya-mashAshvatam
+nApnuvanti mahAtmAnaH
+saMsiddhiM paramAM gatAH"""
+
+[[sloka]]
+lines = """
+Abrahma-bhuvanA-llokAH
+punarA-vartino.arjuna
+mAmupetya tu kaunteya
+punarjanma na vidyate"""
+
+[[sloka]]
+lines = """
+sahasra-yuga-paryantam
+aharyad-brahmaNo viduH
+rAtriM yuga-sahasrAntAM
+te.aho-rAtravido janAH"""
+
+[[sloka]]
+lines = """
+avyaktA-dvyakta-yaH sarvAH
+prabha-vantya-harAgame
+rAtryA-game pralIyante
+tatraivA-vyakta-sa~nj~nake"""
+
+[[sloka]]
+lines = """
+bhUta-grAmaH sa evAyaM
+bhUtvA bhUtvA pralIyate
+rAtryAgame.avashaH pArtha
+prabha-vatya-harAgame"""
+
+[[sloka]]
+lines = """
+parastas-mAttu bhAvo.anyaH
+avyakto.avyaktAt-sanAtanaH
+yaH sa sarveShu bhUteShu
+nashyatsu na vinashyati"""
+
+[[sloka]]
+lines = """
+avyakto.akShara ityuktaH
+tamAhuH paramAM gatim
+yaM prApya na nivartante
+taddhAma paramaM mama"""
+
+[[sloka]]
+lines = """
+puruShaH sa paraH pArtha
+bhaktyA labhyastva-nanyayA
+yasyAntaH sthAni bhUtAni
+yena sarvamidaM tatam"""
+
+[[sloka]]
+lines = """
+yatra kAle tvanAvRRitim
+AvRRitiM chaiva yoginaH
+prayAtA yAnti taM kAlaM
+vakShyAmi bharatarShabha"""
+
+[[sloka]]
+lines = """
+agnir-jyotirahaH shuklaH
+ShaNmAsA uttarAyaNam
+tatra·prayAtA gachChanti
+brahma·brahmavido janAH"""
+
+[[sloka]]
+lines = """
+dhUmo rAtri-stathA kRRiShNaH
+ShaNmAsA dakShiNAyanam
+tatra chAndra-masaM jyotiH
+yogI prApya nivartate"""
+
+[[sloka]]
+lines = """
+shuklakRRiShNe gatI hyete
+jagataH shAshvate mate
+ekayA yAtya-nAvRRitim
+anyayA.a.avartate punaH"""
+
+[[sloka]]
+lines = """
+naite sRRitI pArtha jAnan
+yogI muhyati kashchana
+tasmAt-sarveShu kAleShu
+yogayukto bhavArjuna"""
+
+[[sloka]]
+lines = """
+vedeShu yaj~neShu tapassu chaiva
+dAneShu yat puNya-phalaM pradiShTam
+atyeti tat-sarvamidaM viditvA
+yogI paraM sthAna-mupaiti chAdyam"""
+
+[[sloka]]
+should_number = false
+add_punctuation = false
+lines = """
+shrImad-bhagavad-gItAsu upaniShatsu
+brahma-vidyAyAM yogashAstre
+shrIkRRiShNArjuna saMvAde
+akShara-parabrahma-yogonAma
+aShTamo-dhyAyaH"""

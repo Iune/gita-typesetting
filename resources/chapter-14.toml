@@ -1,0 +1,209 @@
+[[sloka]]
+should_number = false
+add_punctuation = false
+lines = """
+shrI paramAtmane namaH
+atha chaturdasho.adhyAyaH
+guNa-traya-vibhAga-yogaH"""
+
+[[sloka]]
+lines = """
+shrI bhagavAnuvAcha
+paraM bhUyaH pravakShyAmi
+j~nAnAnAM j~nAna-muttamam
+yaj-j~nAtvA munayaH sarve
+parAM siddhi-mito gatAH"""
+
+[[sloka]]
+lines = """
+idaM j~nAna-mupAshritya
+mama sAdharmya-mAgatAH
+sarge.api nopajAyante
+pralaye na·vyathanti cha"""
+
+[[sloka]]
+lines = """
+mama yonir-mahad-brahma
+tasmin-garbhaM dadhAmyaham
+sambhavaH sarva-bhUtAnAM
+tato bhavati bhArata"""
+
+[[sloka]]
+lines = """
+sarva-yoniShu kaunteya
+mUrtayaH sambha-vanti yAH
+tAsAM brahma mahad-yoniH
+ahaM bIja-pradaH pitA"""
+
+[[sloka]]
+lines = """
+sattvaM rajas-tama iti
+guNAH prakRRiti-sambhavAH
+nibadhnanti mahAbAho
+dehe dehina-mavyayam"""
+
+[[sloka]]
+lines = """
+tatra sattvaM nirmala-tvAt
+prakAsha-kama-nAmayam
+sukha-sa~Ngena badhnAti
+j~nAna-sa~Ngena chAnagha"""
+
+[[sloka]]
+lines = """
+rajo rAgAtmakaM viddhi
+tRRiShNA-sa~Nga-samudbhavam
+tanni-badhnAti kaunteya
+karma-sa~Ngena dehinam"""
+
+[[sloka]]
+lines = """
+tamastva-j~nAna-jaM viddhi
+mohanaM sarva-dehinAm
+pramAdAlasya-nidrAbhiH
+tanni-badhnAti bhArata"""
+
+[[sloka]]
+lines = """
+sattvaM sukhe sa~njayati
+rajaH karmaNi bhArata
+j~nAna-mAvRRitya tu tamaH
+pramAde sa~njaya-tyuta"""
+
+[[sloka]]
+lines = """
+rajas-tamashchA-bhibhUya
+sattvaM bhavati bhArata
+rajaH sattvaM tamashchaiva
+tamaH sattvaM rajas-tathA"""
+
+[[sloka]]
+lines = """
+sarva-dvAreShu dehe.asmin
+prakAsha upajAyate
+j~nAnaM yadA tadA vidyAt
+vivRRiddhaM sattvami-tyuta"""
+
+[[sloka]]
+lines = """
+lobhaH pravRRitti-rArambhaH
+karmaNA-mashamaH spRRihA
+rajas-yetAni jAyante
+vivRRiddhe bhara-tarShabha"""
+
+[[sloka]]
+lines = """
+aprakAsho.apravRRittishcha
+pramAdo moha eva cha
+tamasyetAni jAyante
+vivRRiddhe kuru-nandana"""
+
+[[sloka]]
+lines = """
+yadA sattve pravRRiddhe tu
+pralayaM yAti dehabhRRit
+tadotta-mavidAM lokAn
+amalAn-pratipadyate"""
+
+[[sloka]]
+lines = """
+rajasi·pralayaM gatvA
+karma-sa~NgiShu jAyate
+tathA pralIna-stamasi
+mUDha-yoniShu jAyate"""
+
+[[sloka]]
+lines = """
+karmaNaH sukRRita-syAhuH
+sAttvikaM nirmalaM phalam
+raja-sastu phalaM duHkham
+aj~nAnaM tamasaH phalam"""
+
+[[sloka]]
+lines = """
+sattvAt-sa~njAyate j~nAnaM
+rajaso lobha eva cha
+pramAda-mohau tamasaH
+bhavato.aj~nAna-meva cha"""
+
+[[sloka]]
+lines = """
+UrdhvaM gachChanti sattva-sthAH
+madhye tiShThanti rAjasAH
+jaghanya-guNa-vRRitti-sthAH
+adho gachChanti tAmasAH"""
+
+[[sloka]]
+lines = """
+nAnyaM guNebhyaH kartAraM
+yadA draShTA.anupashyati
+guNebhyashcha paraM vetti
+madbhAvaM so.adhi-gachChati"""
+
+[[sloka]]
+lines = """
+guNA-netA-natItya·trIn
+dehI deha-samud-bhavAn
+janma-mRRityu-jarA-duHkhaiH
+vimukto.amRRita-mashnute"""
+
+[[sloka]]
+lines = """
+arjuna uvAcha
+kairli~Ngai-strIn-guNA-netAn
+atIto bhavati·prabho
+kimAchAraH kathaM chaitAn
+trIn-guNA-nati-vartate"""
+
+[[sloka]]
+lines = """
+shrI bhagavAnuvAcha
+prakAshaM cha·pravRRittiM cha
+mohameva cha pANDava
+na·dveShTi sam-pravRRittAni
+na nivRRittAni kA~NkShati"""
+
+[[sloka]]
+lines = """
+udAsInava-dAsInaH
+guNairyo na vichAlyate
+guNA vartanta ityeva
+yo.ava-tiShThati ne~Ngate"""
+
+[[sloka]]
+lines = """
+sama-duHkha-sukhaH svasthaH
+samaloShTAsh-makA~nchanaH
+tulya-priyApriyo dhIraH
+tulya-nindAtma-saMstutiH"""
+
+[[sloka]]
+lines = """
+mAnApa-mAnayo-stulyaH
+tulyo mitrA-ripakShayoH
+sarvA-rambha-pari-tyAgI
+guNA-tItaH sa uchyate"""
+
+[[sloka]]
+lines = """
+mAM cha yo.avya-bhichAreNa
+bhakti-yogena sevate
+sa guNAn-samatI-tyaitAn
+brahma-bhUyAya kalpate"""
+
+[[sloka]]
+lines = """
+brahmaNo hi·pratiShThA.aham
+amRRitas-yAvya-yasya cha
+shAshva-tasya cha dharmasya
+sukhasyai-kAntikasya cha"""
+
+[[sloka]]
+should_number = false
+add_punctuation = false
+lines = """
+shrImad-bhagavad-gItAsu upaniShatsu
+brahma-vidyAyAM yogashAstre
+shrIkRRiShNArjuna saMvAde
+guNa-trayavibhAga-yogonAma
+chaturdasho-dhyAyaH"""

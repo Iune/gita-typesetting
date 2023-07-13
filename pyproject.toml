@@ -7,9 +7,13 @@ authors = ["Aditya Duri <aditya.duri@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 indic-transliteration = "^2.3.25"
+toml = "^0.10.2"
 
 [tool.poetry.dev-dependencies]
 black = "^22.1.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.7.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

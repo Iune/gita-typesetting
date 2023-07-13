@@ -18,7 +18,7 @@ def write_latex(
     source_directory = join(root_directory, "resources")
     output_directory = join(root_directory, "latex", "sections")
 
-    input_file = join(source_directory, f"{section_name}.txt")
+    input_file = join(source_directory, f"{section_name}.toml")
     iast_file = join(output_directory, "iast", f"{section_name}.tex")
     telugu_file = join(output_directory, "telugu", f"{section_name}.tex")
     devanagari_file = join(output_directory, "devanagari", f"{section_name}.tex")

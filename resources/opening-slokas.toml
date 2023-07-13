@@ -1,0 +1,47 @@
+[[sloka]]
+should_number = false
+lines = """
+shrI vallabhA samAshliShTaM
+dashahastaM gajAnanaM
+gaNanAtha mahaM vaMde
+sarva siddhi·pradAyakam"""
+
+[[sloka]]
+should_number = false
+lines = """
+prapanna pArijAtAya
+totravetraika pANaye
+j~nAnamudrAya kRRiShNAya
+gItAMRRitaduhe namaH"""
+
+[[sloka]]
+should_number = false
+lines = """
+vyAsAya viShNu rUpAya
+vyAsa rUpAya viShNave
+namo vai brahma nidhaye
+vAsiShThAya namo namaH"""
+
+[[sloka]]
+should_number = false
+lines = """
+sarvo-paniShado gAvaH
+dogdhA gopAla-nandanaH
+pArtho-vatsaH sudhIr-bhoktA
+dugdhaM gItAmRRitaM mahat"""
+
+[[sloka]]
+should_number = false
+lines = """
+sachchidAnanda rupAya
+vishvotpatyAdi-hetave
+tApatraya-vinAshAya
+shrI kRRiShNAya namo namaH"""
+
+[[sloka]]
+should_number = false
+lines = """
+shrI kRRiShNashsharaNaM mama
+shrI kRRiShNashsharaNaM mama
+shrI kRRiShNashsharaNaM mama"""
+

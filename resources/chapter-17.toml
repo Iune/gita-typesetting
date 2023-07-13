@@ -1,0 +1,215 @@
+[[sloka]]
+should_number = false
+add_punctuation = false
+lines = """
+shrI paramAtmane namaH
+atha saptadasho.adhyAyaH
+shraddhAtraya-vibhAga-yogaH"""
+
+[[sloka]]
+lines = """
+arjuna uvAcha
+ye shAstra-vidhimut-sRRijya
+yajante shraddha-yAnvitAH
+teShAM niShThA tu kA kRRiShNa
+sattva-mAho rajastamaH"""
+
+[[sloka]]
+lines = """
+shrI bhagavAnuvAcha
+trividhA bhavati·shraddhA
+dehinAM sA svabhAvajA
+sAttvikI rAjasI chaiva
+tAmasI cheti tAM shRRiNu"""
+
+[[sloka]]
+lines = """
+sattvAnu-rUpA sarvasya
+shraddhA bhavati bhArata
+shraddhA-mayo.ayaM puruShaH
+yo yacchraddhaH sa eva saH"""
+
+[[sloka]]
+lines = """
+yajante sAttvikA devAn
+yakSha-rakShAMsi rAjasAH
+pretAn bhUta-gaNAM-shchAnye
+yajante tAmasA janAH"""
+
+[[sloka]]
+lines = """
+ashAstra-vihitaM ghoraM
+tapyate ye tapo janAH
+dambhA-hankAra-samyutAH
+kAma-rAga-balAn-vitAH"""
+
+[[sloka]]
+lines = """
+karsha-yantaH sharIrasthaM
+bhUta-grAmama-cetasaH
+mAM chaivAntaH sharIrasthaM
+tAn viddhyAsura-nishchayAn"""
+
+[[sloka]]
+lines = """
+AhAras-tvapi sarvasya
+trividho bhavati·priyaH
+yaj~nas-tapas-tathA dAnaM
+teShAM bheda-mimam shRRiNu"""
+
+[[sloka]]
+lines = """
+Ayu-ssattva-balA-rogya-
+sukha-prIti-vivardhanAH
+rasyAH snigdhAH sthirA hRRidyAH
+AhArAH sAttvika-priyAH"""
+
+[[sloka]]
+lines = """
+kaTvam-lala-vaNA-tyuShNa-
+tIkShNa-rUkSha-vidAhinaH
+AhArA rAjasas-yeShTAH
+duHkha-shokA-maya-pradAH"""
+
+[[sloka]]
+lines = """
+yAtayA-maM gatarasaM
+pUti paryu-ShitaM cha yat
+uchChiShTa-mapi chAmedhyaM
+bhojanaM tAmasa-priyam"""
+
+[[sloka]]
+lines = """
+aphalA-kA~NkShibhir-yaj~naH
+vidhi-dRRiShTo ya ijyate
+yaShTavya-meveti manaH
+samAdhAya sa sAttvikaH"""
+
+[[sloka]]
+lines = """
+abhi-sandhAya tu phalaM
+dambhArtha-mapi chaiva yat
+ijyate bharata-shreShTha
+taM yaj~naM viddhi rAjasam"""
+
+[[sloka]]
+lines = """
+vidhi-hIna-mas-RRiShTAnnaM
+mantra-hIna-madakShiNam
+shraddhA-virahitaM yaj~naM
+tAmasaM parichakShate"""
+
+[[sloka]]
+lines = """
+deva-dvija-guru-prAj~na-
+pūjanaM shaucha-mArjavam
+brahmacharya-mahiMsA cha
+shArIraM tapa uchyate"""
+
+[[sloka]]
+lines = """
+anudvega-karaM vAkyaM
+satyaM priyahitaM cha yat
+svAdhyA-yAbhya-sanaM chaiva
+vA~NmayaM tapa uchyate"""
+
+[[sloka]]
+lines = """
+manaH prasAdaH saumya-tvaM
+mauna-mAtma-vini-grahaH
+bhAva-saMshuddhi-rityetat
+tapo mAna-samuchyate"""
+
+[[sloka]]
+lines = """
+shraddhayA parayA taptaM
+tapastat trividhaM naraiH
+aphalA-kA~NkShi-bhir-yuktaiH
+sattvikaM parichakShate"""
+
+[[sloka]]
+lines = """
+satkAra-mAna-pUjArthaM
+tapo dambhena chaiva yat
+kriyate tadiha·proktaM
+rAjasaM chala-madhruvam"""
+
+[[sloka]]
+lines = """
+mUDha-grAheNā́tmano yat
+pIDayA kriyate tapaH
+parrasyot-sAda-nArthaM vA
+tattAma-samudAhRRitam"""
+
+[[sloka]]
+lines = """
+dAta-vyamiti yaddAnaM
+dIyate.anupakAriNe
+deshe kAle cha pAtre cha
+taddAnaM sAttvikaM smRRitam"""
+
+[[sloka]]
+lines = """
+yattu·pratyupa-kArArthaM
+phala-muddishya vA punaH
+dIyate cha parikliShTaM
+taddAnaM rAjasaM smRRitam"""
+
+[[sloka]]
+lines = """
+adesha-kAle yaddAnam
+apAtrebhyashcha dIyate
+asatkRRitama-vaj~nAtaM
+tattAma-samudAhRRitam"""
+
+[[sloka]]
+lines = """
+oM tatsaditi nirdeshaH
+brahmaNas-trividhaH smRRitaH
+brAhmaNA-stena vedAshcha
+yaj~nAshcha vihitAH purA"""
+
+[[sloka]]
+lines = """
+tasmAdo-mityu-dAhRRitya
+yaj~nadAna-tapaH-kriyAH
+pravartante vidhAnok-tAH
+satataM brahma-vAdinAm"""
+
+[[sloka]]
+lines = """
+taditya-nabhi-sandhAya
+phalaM yaj~na-tapaH-kriyAH
+dAna-kriyAshcha vividhAH
+kriyante mokSha-kA~NkShibhiH"""
+
+[[sloka]]
+lines = """
+sadbhAve sAdhu-bhAve cha
+saditye-tat-prayujyate
+prashaste karmaNi tathA
+sachchhab-daH pArtha yujyate"""
+
+[[sloka]]
+lines = """
+yaj~ne tapasi dAne cha
+sthitiH saditi chochyate
+karma chaiva tadarthIyaM
+saditye-vAbhi-dhIyate"""
+
+[[sloka]]
+lines = """
+ashraddhayA hutaM dattaM
+tapas-taptaM kRRitaM cha yat
+asadityuchyate pArtha
+na cha tatpretya no iha"""
+
+[[sloka]]
+should_number = false
+add_punctuation = false
+lines = """
+shrImad-bhagavad-gItAsu upaniShatsu
+brahma-vidyAyAM yogashAstre
+shrIkRRiShNArjuna saMvAde
+shraddhAtraya-vibhAga-yogonAma
+saptadasho-dhyAyaH"""

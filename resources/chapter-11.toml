@@ -1,0 +1,413 @@
+[[sloka]]
+should_number = false
+add_punctuation = false
+lines = """
+shrI paramAtmane namaH
+atha ekAdasho.adhyAyaH
+vishvarUpa-sandarshana-yogaH"""
+
+[[sloka]]
+lines = """
+arjuna uvAcha
+madanu-grahAya paramaM
+guhya-madhyAt-masa~nj~nitam
+yattva-yoktaM vachastena
+moho.ayaM vigato mama"""
+
+[[sloka]]
+lines = """
+bhavApyayau hi bhUtAnAM
+shrutau vistarasho mayA
+tvattaH kamala-patrAkSha
+mAhAtmya-mapi chAvyayam"""
+
+[[sloka]]
+lines = """
+evametad-yathA.a.attha tvam
+AtmAnaM parameshvara
+draShTumichChAmi te rUpam
+aishvaram puruShottama"""
+
+[[sloka]]
+lines = """
+manyase yadi tachChakyaM
+mayA draShTumiti·prabho
+yogeshvara tato me tvaM
+darshayAtmAna-mavyayam"""
+
+[[sloka]]
+lines = """
+shrI bhagavAnuvAcha
+pashya me pArtha rUpANi
+shatasho.atha sahasrashaH
+nAnA-vidhAni divyAni
+nAnA-varNA-kRRitIni cha"""
+
+[[sloka]]
+lines = """
+pashyA-dityAn-vasUn-rudrAn
+ashvinau maruta-stathA
+bahUnya-dRRiShTa-pUrvANi
+pashyAshcharyANi bhArata"""
+
+[[sloka]]
+lines = """
+ihaikasthaM jagatkRRitsnaM
+pashyAdya sacharAcharam
+mama dehe guDAkesha
+yachchAnyat draShTumichChasi"""
+
+[[sloka]]
+lines = """
+na tu mAM shakyase draShTum
+anenaiva·svachakShuShA
+divyaM dadAmi te chakShuH
+pashya me yogamaishvaram"""
+
+[[sloka]]
+lines = """
+sa~njaya uvAcha
+evamuktvA tato rAjan
+mahA-yogeshvaro hariH
+darshayA-mAsa pArthAya
+paramaM rUpa-maishvaram"""
+
+[[sloka]]
+lines = """
+aneka-vaktra-nayanam
+anekAd-bhuta-darshanam
+aneka-divyA-bharaNaM
+divyA-nekodya-tAyudham"""
+
+[[sloka]]
+lines = """
+divya-mAlyAmbara-dharaM
+divya-gandhAnu-lepanam
+sarvAshcharya-mayaM devam
+anantaM vishvato-mukham"""
+
+[[sloka]]
+lines = """
+divi sUrya-sahasrasya
+bhaved-yuga-pad-utthitA
+yadi bhAH sadRRishI sA syAt
+bhAsastasya mahAtmanaH"""
+
+[[sloka]]
+lines = """
+tatrai-kasthaM jagat-kRRitsnaM
+pravibhakta-manekadhA
+apashyad-devadevasya
+sharIre pANDavastadA"""
+
+[[sloka]]
+lines = """
+tataH sa vismayA-viShTaH
+hRRiShTaromA dhana~njayaH
+praNamya shirasA devaM
+kRRitA~n-jalira-bhAShata"""
+
+[[sloka]]
+lines = """
+arjuna uvAcha
+pashyAmi devAMstava deva dehe
+sarvAMstathA bhUta-visheSha-sa~NghAn
+brahmANa-mIshaM kamalA-sanastham
+RRiShIMshcha sarvA-nuragAMshcha divyAn"""
+
+[[sloka]]
+lines = """
+aneka-bAhU-dara-vaktra-netraM
+pashyAmi·tvA sarvato.anantarUpam
+nAntaM na madhyaM na punasta-vAdiM
+pashyAmi vishveshvara vishvarUpa"""
+
+[[sloka]]
+lines = """
+kirITinaM gadinaM chakriNaM cha
+tejo-rAshiM sarvato dIpti-mantam
+pashyAmi·tvAM durni-rIkShyaM samantAt
+dIptA-nalArka-dyuti-maprameyam"""
+
+[[sloka]]
+lines = """
+tvamakSharaM paramaM veditavyaM
+tvamasya vishvasya paraM nidhAnam
+tva-mavyayaH shAshvata-dharma-goptA
+sanAtana-stvaM puruSho mato me"""
+
+[[sloka]]
+lines = """
+anAdi-madhyAnta-mananta-vIryam
+ananta-bAhuM shashi-sUrya-netram
+pashyAmi·tvAM dIptahutA-shavaktraM
+svatejasA vishvamidaM tapantam"""
+
+[[sloka]]
+lines = """
+dyAvA-pRRithiv-yorida-mantaraM hi
+vyAptaM tva-yaikena dishashcha sarvAH
+dRRiShTvAd-bhutaM rUpamidaM tavograM
+loka-trayaM pravyathitaM mahAtman"""
+
+[[sloka]]
+lines = """
+amI hi·tvA surasa~NghA vishanti
+kechid-bhItAH prA~njalayo gRRiNanti
+svastI-tyuktvA maharShi-siddha-sa~NghAH
+stuvanti·tvAM stuti-bhiH puShka-lAbhiH"""
+
+[[sloka]]
+lines = """
+rudrAdityA vasavo ye cha sAdhyAH
+vishve.ashvinau maruta-shchoShmapAshcha
+gandharva-yakShA-surasiddha-sa~NghAH
+vIkShante tvAM vismitAshchaiva sarve"""
+
+[[sloka]]
+lines = """
+rUpaM mahatte bahuvaktra netraM
+mahAbAho bahubAhU-rupAdam
+bahUdaraM bahu-daMShTrA-karAlaM
+dRRiShTvA lokAH pravyathitA-stathA.aham"""
+
+[[sloka]]
+lines = """
+nabhaH spRRishaM dIpta-maneka-varNaM
+vyAttA-nanaM dIpta-vishAla-netram
+dRRiShTvA hi·tvAM pravyathitAn-tarAtmA
+dhRRitiM na vindAmi shamaM cha viShNo"""
+
+[[sloka]]
+lines = """
+daMShTrA-karAlAni cha te mukhAni
+dRRiShTvaiva kAlAnala-sannibhAni
+disho na jAne na labhe cha sharma
+prasIda devesha jagannivAsa"""
+
+[[sloka]]
+lines = """
+amI cha tvAM dhRRitarASh-Trasya putrAH
+sarve sahai-vAvani-pAla-sa~NghaiH
+bhIShmo droNaH sUta-putra-stathA.asau
+sahAsma-dIyairapi yodha-mukhyaiH"""
+
+[[sloka]]
+lines = """
+vaktrANi te tvara-mANA vishanti
+daMShTrA-karAlAni bhayA-nakAni
+kechid-vilagnA dashanAn-tareShu
+sandRRishyante chUrNitai-rutta-mA~NgaiH"""
+
+[[sloka]]
+lines = """
+yathA nadInAM bahavo.ambuvegAH
+samudra-mevAbhi-mukhA dravanti
+tathA tavAmI naralo-kavIrAH
+vishanti vaktrANya-bhivij-valanti"""
+
+[[sloka]]
+lines = """
+yathA pradIptaM jvalanaM pata~NgAH
+vishanti nAshAya samRRiddha-vegAH
+tathaiva nAshAya vishanti lokAH
+tavApi vaktrANi samRRiddha-vegAH"""
+
+[[sloka]]
+lines = """
+leli-hyase grasamAnaH samantAt
+lokAn-samagrAn-vadanair-jvalad-bhiH
+tejo-bhirApUrya jagat-samagraM
+bhAsas-tavogrAH pratapanti viShNo"""
+
+[[sloka]]
+lines = """
+AkhyAhi me ko bhavA-nugra-rUpaH
+namo.astu te deva-vara·prasIda
+vij~nAtu-michChAmi bhavanta-mAdyaM
+na hi·prajAnAmi tava·pravRRittim"""
+
+[[sloka]]
+lines = """
+shrI bhagavAnuvAcha
+kAlo.asmi loka-kShaya-kRRit-pravRRiddhaH
+lokAn-samAhartu-miha·pravRRittaH
+RRite.api·tvA na bhaviShyanti sarve
+ye.avasthitAH pratya-nIkeShu yodhAH"""
+
+[[sloka]]
+lines = """
+tasmAttva-muttiShTha yasho labhasva
+jitvA shatrUn-bhu~NkShva rAjyaM samRRiddham
+mayaivaite nihatAH pUrvameva
+nimitta-mAtraM bhava savya-sAchin"""
+
+[[sloka]]
+lines = """
+droNaM cha bhIShmaM cha jayadrathaM cha
+karNaM tathAnyA-napi yodha-vIrAn
+mayA hatAMstvaM jahi mA vyathiShThAH
+yudhyasva jetAsi raNe sapatnAn"""
+
+[[sloka]]
+lines = """
+sa~njaya uvAcha
+etachChrutvA vachanaM keshavasya
+kRRitA~njalir-vepamAnaH kirITI
+namaskRRitvA bhUya evAha kRRiShNaM
+sagad-gadaM bhIta-bhItaH praNamya"""
+
+[[sloka]]
+lines = """
+arjuna uvAcha
+sthAne hRRiShIkesha tava·prakIrtyA
+jagat-prahRRiShya-tyanu-rajyate cha
+rakShAMsi bhItAni disho dravanti
+sarve namasyanti cha siddha-sa~NghAH"""
+
+[[sloka]]
+lines = """
+kasmAchcha te na nameran-mahAtman
+garIyase brahmaNo.apyAdi-kartre
+ananta devesha jagannivAsa
+tvamakSharaM sadasat-tatparaM yat"""
+
+[[sloka]]
+lines = """
+tvamAdi-devaH puruShaH purANaH
+tvamasya vishvasya paraM nidhAnam
+vettA.asi vedyaM cha paraM cha dhAma
+tvayA tataM vishva-manantarUpa"""
+
+[[sloka]]
+lines = """
+vAyur-yamo.agnir-varuNaH shashA~NkaH
+prajA-patistvaM prapitA-mahashcha
+namo namaste.astu sahasra-kRRitvaH
+punashcha bhUyo.api namo namaste"""
+
+[[sloka]]
+lines = """
+namaH purastA-datha pRRiShTha-taste
+namo.astu te sarvata eva sarva
+ananta-vIryA-mita-vikrama-stvaM
+sarvaM samApnoShi tato.asi sarvaH"""
+
+[[sloka]]
+lines = """
+sakheti matvA prasabhaM yaduktaM
+he kRRiShNa he yAdava he sakheti
+ajAnatA mahi-mAnaM tavedaM
+mayA pramAdAt-praNa-yena vA.api"""
+
+[[sloka]]
+lines = """
+yachchA-pahA-sArthama-satkRRito.asi
+vihAra-shayyA-sanabho-janeShu
+eko.athavA-pyachyuta tat-samakShaM
+tatkShA-maye tvA-mahama-prameyam"""
+
+[[sloka]]
+lines = """
+pitAsi lokasya charAcharasya
+tvamasya pUjyashcha gurur-garIyAn
+na tvat-samo.astyabhya-dhikaH kuto.anyaH
+loka-traye.apya-pratima-prabhAva"""
+
+[[sloka]]
+lines = """
+tasmAt-praNamya·praNidhAya kAyaM
+prasAdaye tvA-maha-mIsha-mIDyam
+piteva putrasya sakheva sakhyuH
+priyaH priyA-yArhasi deva soDhum"""
+
+[[sloka]]
+lines = """
+adRRiShTa-pUrvaM hRRiShito.asmi dRRiShTvA
+bhayena cha·pravyathitaM mano me
+tadeva me darshaya devarUpaM
+prasIda devesha jagannivAsa"""
+
+[[sloka]]
+lines = """
+kirITinaM gadinaM chakrahastam
+ichChAmi·tvAM draShTu-mahaM tathaiva
+tenaiva rUpeNa chaturbhujena
+sahasra-bAho bhava vishvamUrte"""
+
+[[sloka]]
+lines = """
+shrI bhagavAnuvAcha
+mayA prasannena tavArjunedaM
+rUpaM paraM darshita-mAtmayogAt
+tejomayaM vishva-mananta-mAdyaM
+yanme tvadanyena na dRRiShTapUrvam"""
+
+[[sloka]]
+lines = """
+na veda-yaj~nA-dhyaya-nairna dAnaiH
+na cha·kriyAbhirna tapo-bhirugraiH
+evaMrUpaH shakya ahaM nRRiloke
+draShTuM tvadanyena kuru-pravIra"""
+
+[[sloka]]
+lines = """
+mA te vyathA mA cha vimUDha-bhAvaH
+dRRiShTvA rUpaM ghoramIdRRi~N-mamedam
+vyapeta-bhIH prIta-manAH punastvaM
+tadeva me rUpamidaM prapashya"""
+
+[[sloka]]
+lines = """
+sa~njaya uvAcha
+ityarjunaM vAsudevas-tathoktvA
+svakaM rUpaM darshayA-mAsa bhUyaH
+AshvA-sayA-mAsa cha bhIta-menaM
+bhUtvA punaH saumya-vapur-mahAtmA"""
+
+[[sloka]]
+lines = """
+arjuna uvAcha
+dRRiShTvedaM mAnuShaM rUpaM
+tava saumyaM janArdana
+idAnI-masmi saMvRRittaH
+sachetAH prakRRitiM gataH"""
+
+[[sloka]]
+lines = """
+shrI bhagavAnuvAcha
+sudur-darsha-midaM rUpaM
+dRRiShTa-vAnasi yanmama
+devA apyasya rUpasya
+nityaM darsha-nakA~NkShiNaH"""
+
+[[sloka]]
+lines = """
+nAhaM vedairna tapasA
+na dAnena na chejyayA
+shakya evaM-vidho draShTuM
+dRRiShTa-vAnasi mAM yathA"""
+
+[[sloka]]
+lines = """
+bhaktyA tva-nanyayA shakyaH
+ahamevaM-vidho.arjuna
+j~nAtuM draShTuM cha tattvena
+praveShTuM cha parantapa"""
+
+[[sloka]]
+lines = """
+matkarma-kRRin-matparamaH
+madbhaktaH sa~Nga-varjitaH
+nirvairaH sarva-bhUteShu
+yaH sa mAmeti pANDava"""
+
+[[sloka]]
+should_number = false
+add_punctuation = false
+lines = """
+shrImad-bhagavad-gItAsu upaniShatsu
+brahma-vidyAyAM yogashAstre
+shrIkRRiShNArjuna saMvAde
+vishvarUpa-sandarshana-yogonAma
+ekAdasho-dhyAyaH"""
