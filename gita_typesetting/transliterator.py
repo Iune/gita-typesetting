@@ -132,7 +132,7 @@ def convert_file(
     iast_slokas = convert_slokas(
         slokas,
         SchemeMap(SCHEMES[sanscript.ITRANS], SCHEMES[sanscript.IAST]),
-        sanitize=False,
+        sanitize=True,
     )
     telugu_slokas = convert_slokas(
         slokas,

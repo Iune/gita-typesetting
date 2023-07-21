@@ -201,6 +201,7 @@ tAnsamIkShya sa kaunteyaH
 sarvAn-bandhUna-vasthitAn"""
 
 [[sloka]]
+add_punctuation = false
 lines = """
 kRRipayA parayA.a.aviShTaH
 viShIdannidama-bravIt
@@ -349,6 +350,6 @@ lines = """
 shrImad-bhagavad-gItAsu upaniShatsu
 brahma-vidyAyAM yogashAstre
 shrIkRRiShNArjuna saMvAde
-arjuna-viShAda-yogonAma
+arjuna-viShAdayogo nAma
 prathamo-dhyAyaH"""
 
